@@ -11,6 +11,11 @@ __pycache__/
 # Large datasets
 candidates.jsonl
 
+# Generated folders
+notebooks/progress/
+notebooks/embeddings/
+
 # OS files
 .DS_Store
 ~$*.docx
+Thumbs.db

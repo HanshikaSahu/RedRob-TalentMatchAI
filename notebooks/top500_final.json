@@ -1,0 +1,3502 @@
+[
+  {
+    "candidate_id": "CAND_0079387",
+    "score": 0.7184000015258789,
+    "title": "AI Engineer",
+    "yoe": 6.9,
+    "name": "Sneha Arora"
+  },
+  {
+    "candidate_id": "CAND_0018499",
+    "score": 0.7177000045776367,
+    "title": "Senior Machine Learning Engineer",
+    "yoe": 7.2,
+    "name": "Aarav Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0064326",
+    "score": 0.7053999900817871,
+    "title": "Search Engineer",
+    "yoe": 7.6,
+    "name": "Nisha Pillai"
+  },
+  {
+    "candidate_id": "CAND_0041610",
+    "score": 0.7046999931335449,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 6.7,
+    "name": "Anil Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0027691",
+    "score": 0.6973000168800354,
+    "title": "NLP Engineer",
+    "yoe": 6.5,
+    "name": "Ayaan Goyal"
+  },
+  {
+    "candidate_id": "CAND_0041669",
+    "score": 0.6947000026702881,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 8.0,
+    "name": "Aisha Banerjee"
+  },
+  {
+    "candidate_id": "CAND_0077337",
+    "score": 0.6935999989509583,
+    "title": "Staff Machine Learning Engineer",
+    "yoe": 7.0,
+    "name": "Aarav Agarwal"
+  },
+  {
+    "candidate_id": "CAND_0086022",
+    "score": 0.6895999908447266,
+    "title": "Senior Applied Scientist",
+    "yoe": 5.3,
+    "name": "Dhruv Naidu"
+  },
+  {
+    "candidate_id": "CAND_0046064",
+    "score": 0.6887000203132629,
+    "title": "Senior NLP Engineer",
+    "yoe": 8.9,
+    "name": "Saanvi Naidu"
+  },
+  {
+    "candidate_id": "CAND_0065878",
+    "score": 0.682200014591217,
+    "title": "Senior Data Scientist",
+    "yoe": 7.8,
+    "name": "Suresh Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0071974",
+    "score": 0.6787999868392944,
+    "title": "Senior AI Engineer",
+    "yoe": 7.8,
+    "name": "Sai Verma"
+  },
+  {
+    "candidate_id": "CAND_0005538",
+    "score": 0.6780999898910522,
+    "title": "Senior AI Engineer",
+    "yoe": 5.9,
+    "name": "Aryan Goyal"
+  },
+  {
+    "candidate_id": "CAND_0052682",
+    "score": 0.6682000160217285,
+    "title": "NLP Engineer",
+    "yoe": 6.6,
+    "name": "Ira Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0093912",
+    "score": 0.6657000184059143,
+    "title": "Senior Data Scientist",
+    "yoe": 5.3,
+    "name": "Advik Sethi"
+  },
+  {
+    "candidate_id": "CAND_0088025",
+    "score": 0.6643999814987183,
+    "title": "Staff Machine Learning Engineer",
+    "yoe": 8.6,
+    "name": "Amit Arora"
+  },
+  {
+    "candidate_id": "CAND_0055905",
+    "score": 0.6643000245094299,
+    "title": "Senior Machine Learning Engineer",
+    "yoe": 8.1,
+    "name": "Anika Rao"
+  },
+  {
+    "candidate_id": "CAND_0080766",
+    "score": 0.6621000170707703,
+    "title": "Staff Machine Learning Engineer",
+    "yoe": 8.8,
+    "name": "Kiara Mittal"
+  },
+  {
+    "candidate_id": "CAND_0028793",
+    "score": 0.6589000225067139,
+    "title": "Search Engineer",
+    "yoe": 7.2,
+    "name": "Myra Dutta"
+  },
+  {
+    "candidate_id": "CAND_0083307",
+    "score": 0.6567999720573425,
+    "title": "Search Engineer",
+    "yoe": 7.8,
+    "name": "Neha Patel"
+  },
+  {
+    "candidate_id": "CAND_0002025",
+    "score": 0.6564000248908997,
+    "title": "Senior AI Engineer",
+    "yoe": 5.9,
+    "name": "Ira Dalal"
+  },
+  {
+    "candidate_id": "CAND_0007009",
+    "score": 0.6556000113487244,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 7.9,
+    "name": "Anika Pillai"
+  },
+  {
+    "candidate_id": "CAND_0098846",
+    "score": 0.6543999910354614,
+    "title": "AI Engineer",
+    "yoe": 7.6,
+    "name": "Shreya Saxena"
+  },
+  {
+    "candidate_id": "CAND_0046525",
+    "score": 0.6531999707221985,
+    "title": "Senior Machine Learning Engineer",
+    "yoe": 6.1,
+    "name": "Tanvi Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0068811",
+    "score": 0.6527000069618225,
+    "title": "Applied ML Engineer",
+    "yoe": 8.0,
+    "name": "Krishna Mittal"
+  },
+  {
+    "candidate_id": "CAND_0050876",
+    "score": 0.6504999995231628,
+    "title": "Applied ML Engineer",
+    "yoe": 6.0,
+    "name": "Vivaan Shah"
+  },
+  {
+    "candidate_id": "CAND_0011687",
+    "score": 0.6446999907493591,
+    "title": "Senior NLP Engineer",
+    "yoe": 7.8,
+    "name": "Shreya Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0081846",
+    "score": 0.6409000158309937,
+    "title": "Lead AI Engineer",
+    "yoe": 6.7,
+    "name": "Arjun Khanna"
+  },
+  {
+    "candidate_id": "CAND_0005649",
+    "score": 0.6407999992370605,
+    "title": "Senior Data Scientist",
+    "yoe": 7.4,
+    "name": "Riya Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0061257",
+    "score": 0.6395999789237976,
+    "title": "Staff Machine Learning Engineer",
+    "yoe": 8.0,
+    "name": "Advaith Pillai"
+  },
+  {
+    "candidate_id": "CAND_0067866",
+    "score": 0.6391000151634216,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.4,
+    "name": "Kiara Sethi"
+  },
+  {
+    "candidate_id": "CAND_0067535",
+    "score": 0.6385999917984009,
+    "title": "Junior ML Engineer",
+    "yoe": 6.8,
+    "name": "Aarohi Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0073883",
+    "score": 0.6380000114440918,
+    "title": "AI Specialist",
+    "yoe": 5.3,
+    "name": "Zara Sen"
+  },
+  {
+    "candidate_id": "CAND_0024147",
+    "score": 0.6377999782562256,
+    "title": "ML Engineer",
+    "yoe": 5.9,
+    "name": "Zara Bhatia"
+  },
+  {
+    "candidate_id": "CAND_0052195",
+    "score": 0.6359000205993652,
+    "title": "Computer Vision Engineer",
+    "yoe": 6.3,
+    "name": "Sunil Goyal"
+  },
+  {
+    "candidate_id": "CAND_0011327",
+    "score": 0.6353999972343445,
+    "title": "AI Research Engineer",
+    "yoe": 6.3,
+    "name": "Pranav Krishnan"
+  },
+  {
+    "candidate_id": "CAND_0018549",
+    "score": 0.6351000070571899,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 6.8,
+    "name": "Mira Verma"
+  },
+  {
+    "candidate_id": "CAND_0051292",
+    "score": 0.6340000033378601,
+    "title": "Applied ML Engineer",
+    "yoe": 5.2,
+    "name": "Shreya Chatterjee"
+  },
+  {
+    "candidate_id": "CAND_0061265",
+    "score": 0.6322000026702881,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 6.6,
+    "name": "Tanya Chopra"
+  },
+  {
+    "candidate_id": "CAND_0065195",
+    "score": 0.6319000124931335,
+    "title": "Search Engineer",
+    "yoe": 5.1,
+    "name": "Kiara Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0008425",
+    "score": 0.6319000124931335,
+    "title": "Senior NLP Engineer",
+    "yoe": 7.8,
+    "name": "Myra Krishnan"
+  },
+  {
+    "candidate_id": "CAND_0024878",
+    "score": 0.631600022315979,
+    "title": "AI Specialist",
+    "yoe": 5.7,
+    "name": "Aanya Shetty"
+  },
+  {
+    "candidate_id": "CAND_0004402",
+    "score": 0.6305999755859375,
+    "title": "AI Research Engineer",
+    "yoe": 6.0,
+    "name": "Priya Malhotra"
+  },
+  {
+    "candidate_id": "CAND_0077296",
+    "score": 0.6302000284194946,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.8,
+    "name": "Manish Shah"
+  },
+  {
+    "candidate_id": "CAND_0024466",
+    "score": 0.6295999884605408,
+    "title": "Search Engineer",
+    "yoe": 5.2,
+    "name": "Om Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0069248",
+    "score": 0.6294000148773193,
+    "title": "AI Research Engineer",
+    "yoe": 5.4,
+    "name": "Yash Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0060340",
+    "score": 0.6291000247001648,
+    "title": "Computer Vision Engineer",
+    "yoe": 6.1,
+    "name": "Vikram Shah"
+  },
+  {
+    "candidate_id": "CAND_0044222",
+    "score": 0.6274999976158142,
+    "title": "AI Engineer",
+    "yoe": 7.7,
+    "name": "Dev Shah"
+  },
+  {
+    "candidate_id": "CAND_0086151",
+    "score": 0.6273000240325928,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 7.7,
+    "name": "Ayaan Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0010149",
+    "score": 0.6269999742507935,
+    "title": "ML Engineer",
+    "yoe": 6.9,
+    "name": "Ved Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0043860",
+    "score": 0.6258000135421753,
+    "title": "Junior ML Engineer",
+    "yoe": 6.1,
+    "name": "Pranav Sharma"
+  },
+  {
+    "candidate_id": "CAND_0029367",
+    "score": 0.6251000165939331,
+    "title": "Senior Data Scientist",
+    "yoe": 5.7,
+    "name": "Yash Malhotra"
+  },
+  {
+    "candidate_id": "CAND_0092255",
+    "score": 0.6247000098228455,
+    "title": "ML Engineer",
+    "yoe": 5.2,
+    "name": "Jay Chatterjee"
+  },
+  {
+    "candidate_id": "CAND_0015967",
+    "score": 0.6245999932289124,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.4,
+    "name": "Advik Sethi"
+  },
+  {
+    "candidate_id": "CAND_0081053",
+    "score": 0.6240000128746033,
+    "title": "NLP Engineer",
+    "yoe": 5.4,
+    "name": "Om Chopra"
+  },
+  {
+    "candidate_id": "CAND_0014440",
+    "score": 0.6238999962806702,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 6.4,
+    "name": "Ananya Singh"
+  },
+  {
+    "candidate_id": "CAND_0052328",
+    "score": 0.6233999729156494,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 6.5,
+    "name": "Vikram Banerjee"
+  },
+  {
+    "candidate_id": "CAND_0050454",
+    "score": 0.6205000281333923,
+    "title": "AI Engineer",
+    "yoe": 6.8,
+    "name": "Saanvi Bansal"
+  },
+  {
+    "candidate_id": "CAND_0092706",
+    "score": 0.6205000281333923,
+    "title": "AI Research Engineer",
+    "yoe": 5.8,
+    "name": "Karan Kumar"
+  },
+  {
+    "candidate_id": "CAND_0069905",
+    "score": 0.6205000281333923,
+    "title": "Applied ML Engineer",
+    "yoe": 6.6,
+    "name": "Nisha Bansal"
+  },
+  {
+    "candidate_id": "CAND_0074123",
+    "score": 0.6204000115394592,
+    "title": "Data Scientist",
+    "yoe": 6.9,
+    "name": "Karan Sen"
+  },
+  {
+    "candidate_id": "CAND_0045141",
+    "score": 0.6204000115394592,
+    "title": "Data Scientist",
+    "yoe": 5.3,
+    "name": "Manish Patel"
+  },
+  {
+    "candidate_id": "CAND_0083852",
+    "score": 0.6200000047683716,
+    "title": "Data Scientist",
+    "yoe": 6.0,
+    "name": "Reyansh Banerjee"
+  },
+  {
+    "candidate_id": "CAND_0025882",
+    "score": 0.6191999912261963,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.6,
+    "name": "Pooja Arora"
+  },
+  {
+    "candidate_id": "CAND_0005509",
+    "score": 0.6190999746322632,
+    "title": "Data Scientist",
+    "yoe": 6.0,
+    "name": "Arnav Khanna"
+  },
+  {
+    "candidate_id": "CAND_0040887",
+    "score": 0.6186000108718872,
+    "title": "Machine Learning Engineer",
+    "yoe": 4.7,
+    "name": "Meera Kumar"
+  },
+  {
+    "candidate_id": "CAND_0069638",
+    "score": 0.6182000041007996,
+    "title": "Computer Vision Engineer",
+    "yoe": 6.2,
+    "name": "Diya Gupta"
+  },
+  {
+    "candidate_id": "CAND_0040117",
+    "score": 0.6166999936103821,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 6.5,
+    "name": "Aisha Sen"
+  },
+  {
+    "candidate_id": "CAND_0058688",
+    "score": 0.6162999868392944,
+    "title": "AI Engineer",
+    "yoe": 6.7,
+    "name": "Anjali Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0066999",
+    "score": 0.6159999966621399,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 5.9,
+    "name": "Riya Dalal"
+  },
+  {
+    "candidate_id": "CAND_0007412",
+    "score": 0.6155999898910522,
+    "title": "Applied ML Engineer",
+    "yoe": 7.4,
+    "name": "Pranav Shah"
+  },
+  {
+    "candidate_id": "CAND_0010685",
+    "score": 0.6144000291824341,
+    "title": "NLP Engineer",
+    "yoe": 6.7,
+    "name": "Sunil Mishra"
+  },
+  {
+    "candidate_id": "CAND_0042100",
+    "score": 0.6140000224113464,
+    "title": "Machine Learning Engineer",
+    "yoe": 7.3,
+    "name": "Siya Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0078492",
+    "score": 0.6133999824523926,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 5.1,
+    "name": "Aadhya Vora"
+  },
+  {
+    "candidate_id": "CAND_0070525",
+    "score": 0.613099992275238,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.4,
+    "name": "Ved Kumar"
+  },
+  {
+    "candidate_id": "CAND_0015493",
+    "score": 0.6126999855041504,
+    "title": "Data Scientist",
+    "yoe": 6.4,
+    "name": "Tanvi Shetty"
+  },
+  {
+    "candidate_id": "CAND_0053591",
+    "score": 0.6121000051498413,
+    "title": "AI Engineer",
+    "yoe": 5.3,
+    "name": "Anjali Bhatia"
+  },
+  {
+    "candidate_id": "CAND_0076163",
+    "score": 0.6107000112533569,
+    "title": "NLP Engineer",
+    "yoe": 6.9,
+    "name": "Nikhil Mittal"
+  },
+  {
+    "candidate_id": "CAND_0016163",
+    "score": 0.6105999946594238,
+    "title": "Applied ML Engineer",
+    "yoe": 6.7,
+    "name": "Suresh Shah"
+  },
+  {
+    "candidate_id": "CAND_0036184",
+    "score": 0.6104999780654907,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 6.0,
+    "name": "Riya Chopra"
+  },
+  {
+    "candidate_id": "CAND_0006567",
+    "score": 0.6101999878883362,
+    "title": "Senior AI Engineer",
+    "yoe": 7.9,
+    "name": "Aditya Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0044262",
+    "score": 0.6100999712944031,
+    "title": "Data Scientist",
+    "yoe": 6.9,
+    "name": "Karan Nair"
+  },
+  {
+    "candidate_id": "CAND_0075574",
+    "score": 0.6093000173568726,
+    "title": "Machine Learning Engineer",
+    "yoe": 5.7,
+    "name": "Karan Ghosh"
+  },
+  {
+    "candidate_id": "CAND_0049538",
+    "score": 0.6082000136375427,
+    "title": "Applied ML Engineer",
+    "yoe": 5.8,
+    "name": "Sanjay Bose"
+  },
+  {
+    "candidate_id": "CAND_0079064",
+    "score": 0.6078000068664551,
+    "title": "Senior Data Scientist",
+    "yoe": 5.2,
+    "name": "Sai Saxena"
+  },
+  {
+    "candidate_id": "CAND_0065786",
+    "score": 0.6068999767303467,
+    "title": "AI Specialist",
+    "yoe": 4.9,
+    "name": "Advaith Pandey"
+  },
+  {
+    "candidate_id": "CAND_0062247",
+    "score": 0.6065000295639038,
+    "title": "AI Engineer",
+    "yoe": 7.3,
+    "name": "Saanvi Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0078002",
+    "score": 0.6065000295639038,
+    "title": "Machine Learning Engineer",
+    "yoe": 6.3,
+    "name": "Reyansh Sharma"
+  },
+  {
+    "candidate_id": "CAND_0028527",
+    "score": 0.6065000295639038,
+    "title": "AI Specialist",
+    "yoe": 5.4,
+    "name": "Ela Gupta"
+  },
+  {
+    "candidate_id": "CAND_0027801",
+    "score": 0.6065000295639038,
+    "title": "NLP Engineer",
+    "yoe": 7.4,
+    "name": "Anil Mittal"
+  },
+  {
+    "candidate_id": "CAND_0043228",
+    "score": 0.6064000129699707,
+    "title": "Applied ML Engineer",
+    "yoe": 6.8,
+    "name": "Kiara Sen"
+  },
+  {
+    "candidate_id": "CAND_0091909",
+    "score": 0.6064000129699707,
+    "title": "Machine Learning Engineer",
+    "yoe": 6.9,
+    "name": "Pooja Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0090300",
+    "score": 0.6060000061988831,
+    "title": "AI Research Engineer",
+    "yoe": 5.3,
+    "name": "Advik Sen"
+  },
+  {
+    "candidate_id": "CAND_0064888",
+    "score": 0.6057999730110168,
+    "title": "ML Engineer",
+    "yoe": 5.8,
+    "name": "Riya Kumar"
+  },
+  {
+    "candidate_id": "CAND_0070514",
+    "score": 0.6032000184059143,
+    "title": "AI Specialist",
+    "yoe": 5.5,
+    "name": "Anika Banerjee"
+  },
+  {
+    "candidate_id": "CAND_0011432",
+    "score": 0.6029999852180481,
+    "title": "Senior Data Scientist",
+    "yoe": 7.6,
+    "name": "Deepak Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0097176",
+    "score": 0.602400004863739,
+    "title": "ML Engineer",
+    "yoe": 5.9,
+    "name": "Advik Mehta"
+  },
+  {
+    "candidate_id": "CAND_0066035",
+    "score": 0.6022999882698059,
+    "title": "Data Scientist",
+    "yoe": 6.7,
+    "name": "Vikram Reddy"
+  },
+  {
+    "candidate_id": "CAND_0039383",
+    "score": 0.6018000245094299,
+    "title": "Applied ML Engineer",
+    "yoe": 7.1,
+    "name": "Riya Malhotra"
+  },
+  {
+    "candidate_id": "CAND_0043637",
+    "score": 0.6018000245094299,
+    "title": "Junior ML Engineer",
+    "yoe": 5.5,
+    "name": "Ela Menon"
+  },
+  {
+    "candidate_id": "CAND_0009691",
+    "score": 0.6017000079154968,
+    "title": "Applied ML Engineer",
+    "yoe": 6.2,
+    "name": "Ira Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0028422",
+    "score": 0.6014999747276306,
+    "title": "Junior ML Engineer",
+    "yoe": 5.5,
+    "name": "Rahul Sharma"
+  },
+  {
+    "candidate_id": "CAND_0073314",
+    "score": 0.6013000011444092,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.2,
+    "name": "Vivaan Singh"
+  },
+  {
+    "candidate_id": "CAND_0025640",
+    "score": 0.6011999845504761,
+    "title": "AI Research Engineer",
+    "yoe": 5.6,
+    "name": "Anjali Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0031593",
+    "score": 0.6011999845504761,
+    "title": "Search Engineer",
+    "yoe": 7.8,
+    "name": "Aanya Chopra"
+  },
+  {
+    "candidate_id": "CAND_0053695",
+    "score": 0.6011000275611877,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 5.8,
+    "name": "Sanjay Sharma"
+  },
+  {
+    "candidate_id": "CAND_0088385",
+    "score": 0.6003999710083008,
+    "title": "Computer Vision Engineer",
+    "yoe": 7.0,
+    "name": "Manish Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0099751",
+    "score": 0.6003999710083008,
+    "title": "Junior ML Engineer",
+    "yoe": 5.5,
+    "name": "Dev Sharma"
+  },
+  {
+    "candidate_id": "CAND_0068932",
+    "score": 0.599399983882904,
+    "title": "ML Engineer",
+    "yoe": 5.2,
+    "name": "Anil Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0096142",
+    "score": 0.5982999801635742,
+    "title": "Applied ML Engineer",
+    "yoe": 5.0,
+    "name": "Pranav Sethi"
+  },
+  {
+    "candidate_id": "CAND_0012837",
+    "score": 0.5982999801635742,
+    "title": "Junior ML Engineer",
+    "yoe": 6.4,
+    "name": "Myra Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0043384",
+    "score": 0.597000002861023,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.2,
+    "name": "Yash Iyengar"
+  },
+  {
+    "candidate_id": "CAND_0067041",
+    "score": 0.5967000126838684,
+    "title": "Data Scientist",
+    "yoe": 6.9,
+    "name": "Advik Khanna"
+  },
+  {
+    "candidate_id": "CAND_0081686",
+    "score": 0.59579998254776,
+    "title": "Search Engineer",
+    "yoe": 6.0,
+    "name": "Naina Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0013665",
+    "score": 0.5950999855995178,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.2,
+    "name": "Nisha Joshi"
+  },
+  {
+    "candidate_id": "CAND_0057563",
+    "score": 0.5949000120162964,
+    "title": "NLP Engineer",
+    "yoe": 6.8,
+    "name": "Om Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0006557",
+    "score": 0.5936999917030334,
+    "title": "NLP Engineer",
+    "yoe": 7.9,
+    "name": "Divya Goyal"
+  },
+  {
+    "candidate_id": "CAND_0073504",
+    "score": 0.5935999751091003,
+    "title": "Junior ML Engineer",
+    "yoe": 6.6,
+    "name": "Pranav Pillai"
+  },
+  {
+    "candidate_id": "CAND_0032515",
+    "score": 0.5932999849319458,
+    "title": "Machine Learning Engineer",
+    "yoe": 5.1,
+    "name": "Anjali Sen"
+  },
+  {
+    "candidate_id": "CAND_0033987",
+    "score": 0.5928999781608582,
+    "title": "ML Engineer",
+    "yoe": 6.8,
+    "name": "Atharv Bose"
+  },
+  {
+    "candidate_id": "CAND_0018722",
+    "score": 0.5928000211715698,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 6.6,
+    "name": "Pranav Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0070398",
+    "score": 0.5925999879837036,
+    "title": "Machine Learning Engineer",
+    "yoe": 7.2,
+    "name": "Riya Saxena"
+  },
+  {
+    "candidate_id": "CAND_0037566",
+    "score": 0.5914999842643738,
+    "title": "Machine Learning Engineer",
+    "yoe": 6.9,
+    "name": "Ritu Nair"
+  },
+  {
+    "candidate_id": "CAND_0020991",
+    "score": 0.5910999774932861,
+    "title": "Junior ML Engineer",
+    "yoe": 4.9,
+    "name": "Pranav Nair"
+  },
+  {
+    "candidate_id": "CAND_0041402",
+    "score": 0.5910000205039978,
+    "title": "AI Specialist",
+    "yoe": 6.3,
+    "name": "Karan Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0064256",
+    "score": 0.5909000039100647,
+    "title": "Junior ML Engineer",
+    "yoe": 6.4,
+    "name": "Meera Gupta"
+  },
+  {
+    "candidate_id": "CAND_0006418",
+    "score": 0.5907999873161316,
+    "title": "Machine Learning Engineer",
+    "yoe": 5.7,
+    "name": "Rahul Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0009024",
+    "score": 0.5907999873161316,
+    "title": "Search Engineer",
+    "yoe": 5.2,
+    "name": "Avni Sharma"
+  },
+  {
+    "candidate_id": "CAND_0020877",
+    "score": 0.5907999873161316,
+    "title": "Applied ML Engineer",
+    "yoe": 5.1,
+    "name": "Anil Rao"
+  },
+  {
+    "candidate_id": "CAND_0005311",
+    "score": 0.5899999737739563,
+    "title": "AI Research Engineer",
+    "yoe": 5.7,
+    "name": "Naina Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0002120",
+    "score": 0.5896000266075134,
+    "title": "ML Engineer",
+    "yoe": 6.5,
+    "name": "Dhruv Khanna"
+  },
+  {
+    "candidate_id": "CAND_0070485",
+    "score": 0.5892999768257141,
+    "title": "Search Engineer",
+    "yoe": 6.4,
+    "name": "Krishna Rao"
+  },
+  {
+    "candidate_id": "CAND_0037944",
+    "score": 0.5892999768257141,
+    "title": "Senior Data Scientist",
+    "yoe": 4.9,
+    "name": "Suresh Singh"
+  },
+  {
+    "candidate_id": "CAND_0015581",
+    "score": 0.5892000198364258,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.0,
+    "name": "Tanvi Reddy"
+  },
+  {
+    "candidate_id": "CAND_0065277",
+    "score": 0.5885999798774719,
+    "title": "Computer Vision Engineer",
+    "yoe": 6.3,
+    "name": "Naina Sethi"
+  },
+  {
+    "candidate_id": "CAND_0054173",
+    "score": 0.5885000228881836,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.1,
+    "name": "Ela Menon"
+  },
+  {
+    "candidate_id": "CAND_0053527",
+    "score": 0.588100016117096,
+    "title": "Junior ML Engineer",
+    "yoe": 7.0,
+    "name": "Krishna Iyer"
+  },
+  {
+    "candidate_id": "CAND_0010603",
+    "score": 0.588100016117096,
+    "title": "ML Engineer",
+    "yoe": 5.3,
+    "name": "Aisha Desai"
+  },
+  {
+    "candidate_id": "CAND_0039754",
+    "score": 0.5879999995231628,
+    "title": "Senior Applied Scientist",
+    "yoe": 16.2,
+    "name": "Mira Banerjee"
+  },
+  {
+    "candidate_id": "CAND_0061244",
+    "score": 0.5878999829292297,
+    "title": "Computer Vision Engineer",
+    "yoe": 6.2,
+    "name": "Nisha Nair"
+  },
+  {
+    "candidate_id": "CAND_0032216",
+    "score": 0.5877000093460083,
+    "title": "ML Engineer",
+    "yoe": 6.1,
+    "name": "Rahul Shetty"
+  },
+  {
+    "candidate_id": "CAND_0073007",
+    "score": 0.5875999927520752,
+    "title": "AI Specialist",
+    "yoe": 5.8,
+    "name": "Ayaan Saxena"
+  },
+  {
+    "candidate_id": "CAND_0030031",
+    "score": 0.5871999859809875,
+    "title": "AI Engineer",
+    "yoe": 5.7,
+    "name": "Anil Joshi"
+  },
+  {
+    "candidate_id": "CAND_0000422",
+    "score": 0.5867999792098999,
+    "title": "AI Research Engineer",
+    "yoe": 6.3,
+    "name": "Anil Shah"
+  },
+  {
+    "candidate_id": "CAND_0017960",
+    "score": 0.5867000222206116,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 7.7,
+    "name": "Pari Shah"
+  },
+  {
+    "candidate_id": "CAND_0074342",
+    "score": 0.5866000056266785,
+    "title": "Data Scientist",
+    "yoe": 5.7,
+    "name": "Aditya Mittal"
+  },
+  {
+    "candidate_id": "CAND_0090155",
+    "score": 0.5861999988555908,
+    "title": "ML Engineer",
+    "yoe": 5.8,
+    "name": "Sai Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0075249",
+    "score": 0.5861999988555908,
+    "title": "Applied ML Engineer",
+    "yoe": 6.2,
+    "name": "Ishaan Arora"
+  },
+  {
+    "candidate_id": "CAND_0041594",
+    "score": 0.5859000086784363,
+    "title": "Computer Vision Engineer",
+    "yoe": 4.3,
+    "name": "Aarav Nair"
+  },
+  {
+    "candidate_id": "CAND_0041568",
+    "score": 0.5856999754905701,
+    "title": "Search Engineer",
+    "yoe": 5.2,
+    "name": "Sneha Singh"
+  },
+  {
+    "candidate_id": "CAND_0054703",
+    "score": 0.5849999785423279,
+    "title": "Computer Vision Engineer",
+    "yoe": 6.8,
+    "name": "Sai Shetty"
+  },
+  {
+    "candidate_id": "CAND_0013613",
+    "score": 0.5846999883651733,
+    "title": "Machine Learning Engineer",
+    "yoe": 4.7,
+    "name": "Advaith Joshi"
+  },
+  {
+    "candidate_id": "CAND_0080051",
+    "score": 0.5843999981880188,
+    "title": "Data Scientist",
+    "yoe": 5.2,
+    "name": "Arjun Iyer"
+  },
+  {
+    "candidate_id": "CAND_0081480",
+    "score": 0.5841000080108643,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.6,
+    "name": "Sneha Hegde"
+  },
+  {
+    "candidate_id": "CAND_0048558",
+    "score": 0.5839999914169312,
+    "title": "Data Scientist",
+    "yoe": 6.7,
+    "name": "Aisha Joshi"
+  },
+  {
+    "candidate_id": "CAND_0093193",
+    "score": 0.5839999914169312,
+    "title": "Senior Machine Learning Engineer",
+    "yoe": 7.9,
+    "name": "Aarohi Bose"
+  },
+  {
+    "candidate_id": "CAND_0042506",
+    "score": 0.5838000178337097,
+    "title": "Search Engineer",
+    "yoe": 4.2,
+    "name": "Zara Pandey"
+  },
+  {
+    "candidate_id": "CAND_0049217",
+    "score": 0.5837000012397766,
+    "title": "Computer Vision Engineer",
+    "yoe": 6.0,
+    "name": "Aditya Naidu"
+  },
+  {
+    "candidate_id": "CAND_0030953",
+    "score": 0.5837000012397766,
+    "title": "Search Engineer",
+    "yoe": 7.8,
+    "name": "Dhruv Hegde"
+  },
+  {
+    "candidate_id": "CAND_0047542",
+    "score": 0.5834000110626221,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.0,
+    "name": "Anil Nair"
+  },
+  {
+    "candidate_id": "CAND_0091580",
+    "score": 0.583299994468689,
+    "title": "Data Scientist",
+    "yoe": 5.5,
+    "name": "Nikhil Krishnan"
+  },
+  {
+    "candidate_id": "CAND_0068012",
+    "score": 0.5824999809265137,
+    "title": "Junior ML Engineer",
+    "yoe": 5.7,
+    "name": "Ananya Bhatia"
+  },
+  {
+    "candidate_id": "CAND_0054100",
+    "score": 0.5820000171661377,
+    "title": "Junior ML Engineer",
+    "yoe": 6.0,
+    "name": "Aanya Patel"
+  },
+  {
+    "candidate_id": "CAND_0087778",
+    "score": 0.5812000036239624,
+    "title": "Data Scientist",
+    "yoe": 5.8,
+    "name": "Nikhil Chopra"
+  },
+  {
+    "candidate_id": "CAND_0072660",
+    "score": 0.5809999704360962,
+    "title": "Machine Learning Engineer",
+    "yoe": 7.1,
+    "name": "Aarohi Sen"
+  },
+  {
+    "candidate_id": "CAND_0005477",
+    "score": 0.5806000232696533,
+    "title": "ML Engineer",
+    "yoe": 6.2,
+    "name": "Aarav Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0014063",
+    "score": 0.5802000164985657,
+    "title": "AI Specialist",
+    "yoe": 5.4,
+    "name": "Ela Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0044855",
+    "score": 0.5799000263214111,
+    "title": "Senior Data Scientist",
+    "yoe": 6.6,
+    "name": "Kavya Joshi"
+  },
+  {
+    "candidate_id": "CAND_0074735",
+    "score": 0.5794000029563904,
+    "title": "Applied ML Engineer",
+    "yoe": 5.5,
+    "name": "Ananya Arora"
+  },
+  {
+    "candidate_id": "CAND_0055139",
+    "score": 0.5789999961853027,
+    "title": "ML Engineer",
+    "yoe": 6.9,
+    "name": "Rajesh Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0018094",
+    "score": 0.5788999795913696,
+    "title": "ML Engineer",
+    "yoe": 5.2,
+    "name": "Pranav Mehta"
+  },
+  {
+    "candidate_id": "CAND_0023215",
+    "score": 0.5787000060081482,
+    "title": "Junior ML Engineer",
+    "yoe": 4.4,
+    "name": "Om Chopra"
+  },
+  {
+    "candidate_id": "CAND_0049831",
+    "score": 0.5787000060081482,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.4,
+    "name": "Ira Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0063622",
+    "score": 0.578499972820282,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.2,
+    "name": "Reyansh Chatterjee"
+  },
+  {
+    "candidate_id": "CAND_0094759",
+    "score": 0.5784000158309937,
+    "title": "Lead AI Engineer",
+    "yoe": 8.6,
+    "name": "Aditya Pillai"
+  },
+  {
+    "candidate_id": "CAND_0099269",
+    "score": 0.5770000219345093,
+    "title": "Data Scientist",
+    "yoe": 5.5,
+    "name": "Ishaan Singh"
+  },
+  {
+    "candidate_id": "CAND_0052335",
+    "score": 0.5763000249862671,
+    "title": "Applied ML Engineer",
+    "yoe": 6.4,
+    "name": "Vivaan Sen"
+  },
+  {
+    "candidate_id": "CAND_0033179",
+    "score": 0.5759000182151794,
+    "title": "AI Research Engineer",
+    "yoe": 6.9,
+    "name": "Yash Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0001930",
+    "score": 0.5753999948501587,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.9,
+    "name": "Rahul Gupta"
+  },
+  {
+    "candidate_id": "CAND_0002559",
+    "score": 0.5746999979019165,
+    "title": "Senior Software Engineer",
+    "yoe": 7.9,
+    "name": "Tanya Reddy"
+  },
+  {
+    "candidate_id": "CAND_0054829",
+    "score": 0.5741000175476074,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.7,
+    "name": "Reyansh Vora"
+  },
+  {
+    "candidate_id": "CAND_0094799",
+    "score": 0.5741000175476074,
+    "title": "Backend Engineer",
+    "yoe": 6.1,
+    "name": "Tanvi Chopra"
+  },
+  {
+    "candidate_id": "CAND_0058340",
+    "score": 0.5738000273704529,
+    "title": "Sales Executive",
+    "yoe": 8.2,
+    "name": "Aryan Mishra"
+  },
+  {
+    "candidate_id": "CAND_0004907",
+    "score": 0.5737000107765198,
+    "title": "Sales Executive",
+    "yoe": 8.6,
+    "name": "Sai Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0087006",
+    "score": 0.5734000205993652,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.7,
+    "name": "Naina Kumar"
+  },
+  {
+    "candidate_id": "CAND_0000273",
+    "score": 0.5730999708175659,
+    "title": "ML Engineer",
+    "yoe": 5.8,
+    "name": "Vikram Kumar"
+  },
+  {
+    "candidate_id": "CAND_0005269",
+    "score": 0.5730999708175659,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.1,
+    "name": "Nisha Bose"
+  },
+  {
+    "candidate_id": "CAND_0093401",
+    "score": 0.5723999738693237,
+    "title": "AI Specialist",
+    "yoe": 6.0,
+    "name": "Kavya Rao"
+  },
+  {
+    "candidate_id": "CAND_0037980",
+    "score": 0.5722000002861023,
+    "title": "Senior Applied Scientist",
+    "yoe": 9.0,
+    "name": "Reyansh Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0059795",
+    "score": 0.5722000002861023,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.6,
+    "name": "Pooja Chopra"
+  },
+  {
+    "candidate_id": "CAND_0018564",
+    "score": 0.5720000267028809,
+    "title": "Software Engineer",
+    "yoe": 5.4,
+    "name": "Ela Agarwal"
+  },
+  {
+    "candidate_id": "CAND_0058426",
+    "score": 0.5715000033378601,
+    "title": "Data Scientist",
+    "yoe": 6.5,
+    "name": "Aisha Dutta"
+  },
+  {
+    "candidate_id": "CAND_0067966",
+    "score": 0.5715000033378601,
+    "title": "Sales Executive",
+    "yoe": 6.5,
+    "name": "Reyansh Chopra"
+  },
+  {
+    "candidate_id": "CAND_0018240",
+    "score": 0.5706999897956848,
+    "title": "Software Engineer",
+    "yoe": 7.5,
+    "name": "Deepak Dalal"
+  },
+  {
+    "candidate_id": "CAND_0013393",
+    "score": 0.5705999732017517,
+    "title": "ML Engineer",
+    "yoe": 5.3,
+    "name": "Sneha Bansal"
+  },
+  {
+    "candidate_id": "CAND_0010257",
+    "score": 0.5703999996185303,
+    "title": "Senior Data Scientist",
+    "yoe": 6.5,
+    "name": "Ira Shetty"
+  },
+  {
+    "candidate_id": "CAND_0086154",
+    "score": 0.5699999928474426,
+    "title": "Data Scientist",
+    "yoe": 6.8,
+    "name": "Vivaan Verma"
+  },
+  {
+    "candidate_id": "CAND_0084819",
+    "score": 0.569599986076355,
+    "title": "Search Engineer",
+    "yoe": 4.5,
+    "name": "Krishna Shah"
+  },
+  {
+    "candidate_id": "CAND_0039587",
+    "score": 0.5692999958992004,
+    "title": "Data Engineer",
+    "yoe": 6.2,
+    "name": "Ayaan Shah"
+  },
+  {
+    "candidate_id": "CAND_0000031",
+    "score": 0.5690000057220459,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 6.0,
+    "name": "Ela Singh"
+  },
+  {
+    "candidate_id": "CAND_0055960",
+    "score": 0.5687000155448914,
+    "title": "AI Specialist",
+    "yoe": 4.9,
+    "name": "Saanvi Vora"
+  },
+  {
+    "candidate_id": "CAND_0072362",
+    "score": 0.5685999989509583,
+    "title": "Analytics Engineer",
+    "yoe": 5.7,
+    "name": "Ved Shah"
+  },
+  {
+    "candidate_id": "CAND_0073982",
+    "score": 0.5684999823570251,
+    "title": "Data Scientist",
+    "yoe": 7.0,
+    "name": "Divya Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0093883",
+    "score": 0.5681999921798706,
+    "title": "AI Research Engineer",
+    "yoe": 5.0,
+    "name": "Pranav Singh"
+  },
+  {
+    "candidate_id": "CAND_0049540",
+    "score": 0.5677000284194946,
+    "title": "ML Engineer",
+    "yoe": 6.8,
+    "name": "Pranav Iyer"
+  },
+  {
+    "candidate_id": "CAND_0026942",
+    "score": 0.5674999952316284,
+    "title": "Junior ML Engineer",
+    "yoe": 6.0,
+    "name": "Sneha Nair"
+  },
+  {
+    "candidate_id": "CAND_0072688",
+    "score": 0.567300021648407,
+    "title": "Data Scientist",
+    "yoe": 6.9,
+    "name": "Rajesh Goyal"
+  },
+  {
+    "candidate_id": "CAND_0032271",
+    "score": 0.5669999718666077,
+    "title": "AI Research Engineer",
+    "yoe": 6.6,
+    "name": "Ananya Pillai"
+  },
+  {
+    "candidate_id": "CAND_0085851",
+    "score": 0.5663999915122986,
+    "title": "ML Engineer",
+    "yoe": 7.0,
+    "name": "Arnav Iyengar"
+  },
+  {
+    "candidate_id": "CAND_0030468",
+    "score": 0.5662000179290771,
+    "title": "Senior Applied Scientist",
+    "yoe": 5.4,
+    "name": "Pooja Bose"
+  },
+  {
+    "candidate_id": "CAND_0043693",
+    "score": 0.566100001335144,
+    "title": "Data Engineer",
+    "yoe": 6.7,
+    "name": "Ishaan Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0043958",
+    "score": 0.5651999711990356,
+    "title": "AI Research Engineer",
+    "yoe": 6.7,
+    "name": "Rajesh Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0045862",
+    "score": 0.5641000270843506,
+    "title": "AI Specialist",
+    "yoe": 6.7,
+    "name": "Aanya Dalal"
+  },
+  {
+    "candidate_id": "CAND_0088441",
+    "score": 0.5637999773025513,
+    "title": "AI Specialist",
+    "yoe": 6.5,
+    "name": "Divya Gupta"
+  },
+  {
+    "candidate_id": "CAND_0082882",
+    "score": 0.5636000037193298,
+    "title": "Senior Data Engineer",
+    "yoe": 7.5,
+    "name": "Nikhil Bansal"
+  },
+  {
+    "candidate_id": "CAND_0009722",
+    "score": 0.5636000037193298,
+    "title": "Computer Vision Engineer",
+    "yoe": 6.2,
+    "name": "Ved Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0047849",
+    "score": 0.5630000233650208,
+    "title": "Sales Executive",
+    "yoe": 8.1,
+    "name": "Aadhya Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0039962",
+    "score": 0.5626999735832214,
+    "title": "ML Engineer",
+    "yoe": 6.5,
+    "name": "Tanya Hegde"
+  },
+  {
+    "candidate_id": "CAND_0072301",
+    "score": 0.5626999735832214,
+    "title": "Data Analyst",
+    "yoe": 7.4,
+    "name": "Pooja Saxena"
+  },
+  {
+    "candidate_id": "CAND_0049615",
+    "score": 0.5626999735832214,
+    "title": "ML Engineer",
+    "yoe": 5.1,
+    "name": "Kavya Mishra"
+  },
+  {
+    "candidate_id": "CAND_0053605",
+    "score": 0.5626000165939331,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.9,
+    "name": "Myra Mishra"
+  },
+  {
+    "candidate_id": "CAND_0018888",
+    "score": 0.5625,
+    "title": "AI Research Engineer",
+    "yoe": 6.5,
+    "name": "Shreya Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0061175",
+    "score": 0.5625,
+    "title": "AI Research Engineer",
+    "yoe": 6.7,
+    "name": "Reyansh Chatterjee"
+  },
+  {
+    "candidate_id": "CAND_0060257",
+    "score": 0.5625,
+    "title": "AI Specialist",
+    "yoe": 5.8,
+    "name": "Sai Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0098952",
+    "score": 0.5620999932289124,
+    "title": "AI Research Engineer",
+    "yoe": 5.5,
+    "name": "Dev Sethi"
+  },
+  {
+    "candidate_id": "CAND_0066888",
+    "score": 0.5619000196456909,
+    "title": "Sales Executive",
+    "yoe": 7.0,
+    "name": "Ishaan Sethi"
+  },
+  {
+    "candidate_id": "CAND_0066710",
+    "score": 0.5619000196456909,
+    "title": "Data Engineer",
+    "yoe": 6.9,
+    "name": "Ira Shah"
+  },
+  {
+    "candidate_id": "CAND_0013988",
+    "score": 0.5616999864578247,
+    "title": "Junior ML Engineer",
+    "yoe": 5.4,
+    "name": "Vikram Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0091890",
+    "score": 0.5616000294685364,
+    "title": "AI Research Engineer",
+    "yoe": 4.7,
+    "name": "Ayaan Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0017171",
+    "score": 0.5616000294685364,
+    "title": "Analytics Engineer",
+    "yoe": 6.7,
+    "name": "Ritu Desai"
+  },
+  {
+    "candidate_id": "CAND_0009200",
+    "score": 0.5613999962806702,
+    "title": "AI Specialist",
+    "yoe": 5.7,
+    "name": "Amit Chopra"
+  },
+  {
+    "candidate_id": "CAND_0051466",
+    "score": 0.5613999962806702,
+    "title": "AI Research Engineer",
+    "yoe": 5.3,
+    "name": "Krishna Gupta"
+  },
+  {
+    "candidate_id": "CAND_0031520",
+    "score": 0.5608999729156494,
+    "title": "Senior Data Engineer",
+    "yoe": 5.8,
+    "name": "Atharv Desai"
+  },
+  {
+    "candidate_id": "CAND_0046132",
+    "score": 0.5605000257492065,
+    "title": "AI Research Engineer",
+    "yoe": 4.3,
+    "name": "Ishaan Pillai"
+  },
+  {
+    "candidate_id": "CAND_0053100",
+    "score": 0.5605000257492065,
+    "title": "Content Writer",
+    "yoe": 7.8,
+    "name": "Sunil Patel"
+  },
+  {
+    "candidate_id": "CAND_0074225",
+    "score": 0.5601999759674072,
+    "title": "Machine Learning Engineer",
+    "yoe": 4.3,
+    "name": "Kabir Agarwal"
+  },
+  {
+    "candidate_id": "CAND_0076251",
+    "score": 0.5601999759674072,
+    "title": "Search Engineer",
+    "yoe": 7.6,
+    "name": "Atharv Pandey"
+  },
+  {
+    "candidate_id": "CAND_0031752",
+    "score": 0.5597000122070312,
+    "title": "ML Engineer",
+    "yoe": 5.0,
+    "name": "Vihaan Menon"
+  },
+  {
+    "candidate_id": "CAND_0047721",
+    "score": 0.5595999956130981,
+    "title": "Senior Data Scientist",
+    "yoe": 7.0,
+    "name": "Om Verma"
+  },
+  {
+    "candidate_id": "CAND_0061819",
+    "score": 0.5595999956130981,
+    "title": "Junior ML Engineer",
+    "yoe": 5.0,
+    "name": "Kabir Krishnan"
+  },
+  {
+    "candidate_id": "CAND_0029100",
+    "score": 0.559499979019165,
+    "title": "Software Engineer",
+    "yoe": 7.9,
+    "name": "Aisha Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0060054",
+    "score": 0.559499979019165,
+    "title": "AI Engineer",
+    "yoe": 6.4,
+    "name": "Aisha Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0095528",
+    "score": 0.5594000220298767,
+    "title": "Senior Data Scientist",
+    "yoe": 5.3,
+    "name": "Amit Dalal"
+  },
+  {
+    "candidate_id": "CAND_0003794",
+    "score": 0.5591999888420105,
+    "title": "HR Manager",
+    "yoe": 8.5,
+    "name": "Ved Sen"
+  },
+  {
+    "candidate_id": "CAND_0008295",
+    "score": 0.5590000152587891,
+    "title": "AI Research Engineer",
+    "yoe": 6.5,
+    "name": "Om Mehta"
+  },
+  {
+    "candidate_id": "CAND_0080372",
+    "score": 0.5583999752998352,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.2,
+    "name": "Kiara Vora"
+  },
+  {
+    "candidate_id": "CAND_0055392",
+    "score": 0.5577999949455261,
+    "title": "Content Writer",
+    "yoe": 9.0,
+    "name": "Shreya Bhatia"
+  },
+  {
+    "candidate_id": "CAND_0082086",
+    "score": 0.5576000213623047,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.0,
+    "name": "Aryan Krishnan"
+  },
+  {
+    "candidate_id": "CAND_0078669",
+    "score": 0.5576000213623047,
+    "title": "ML Engineer",
+    "yoe": 6.3,
+    "name": "Divya Khanna"
+  },
+  {
+    "candidate_id": "CAND_0096104",
+    "score": 0.5573999881744385,
+    "title": "AI Specialist",
+    "yoe": 7.0,
+    "name": "Ritu Shetty"
+  },
+  {
+    "candidate_id": "CAND_0033352",
+    "score": 0.5573999881744385,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.0,
+    "name": "Aarohi Dutta"
+  },
+  {
+    "candidate_id": "CAND_0027676",
+    "score": 0.557200014591217,
+    "title": "DevOps Engineer",
+    "yoe": 8.5,
+    "name": "Ayaan Malhotra"
+  },
+  {
+    "candidate_id": "CAND_0074345",
+    "score": 0.5570999979972839,
+    "title": "Analytics Engineer",
+    "yoe": 6.0,
+    "name": "Suresh Chatterjee"
+  },
+  {
+    "candidate_id": "CAND_0047310",
+    "score": 0.5569000244140625,
+    "title": "Senior Data Engineer",
+    "yoe": 6.8,
+    "name": "Manish Mittal"
+  },
+  {
+    "candidate_id": "CAND_0022516",
+    "score": 0.5566999912261963,
+    "title": "Data Analyst",
+    "yoe": 7.2,
+    "name": "Aanya Khanna"
+  },
+  {
+    "candidate_id": "CAND_0066376",
+    "score": 0.5565999746322632,
+    "title": "Applied ML Engineer",
+    "yoe": 5.7,
+    "name": "Amit Goyal"
+  },
+  {
+    "candidate_id": "CAND_0026362",
+    "score": 0.5565000176429749,
+    "title": "Data Scientist",
+    "yoe": 5.0,
+    "name": "Rajesh Naidu"
+  },
+  {
+    "candidate_id": "CAND_0083879",
+    "score": 0.5562999844551086,
+    "title": "Machine Learning Engineer",
+    "yoe": 7.1,
+    "name": "Mira Reddy"
+  },
+  {
+    "candidate_id": "CAND_0098888",
+    "score": 0.5562000274658203,
+    "title": "Analytics Engineer",
+    "yoe": 6.4,
+    "name": "Naina Iyer"
+  },
+  {
+    "candidate_id": "CAND_0060315",
+    "score": 0.5559999942779541,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.4,
+    "name": "Naina Sharma"
+  },
+  {
+    "candidate_id": "CAND_0055992",
+    "score": 0.5559999942779541,
+    "title": "AI Engineer",
+    "yoe": 16.9,
+    "name": "Deepak Bansal"
+  },
+  {
+    "candidate_id": "CAND_0043676",
+    "score": 0.555899977684021,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.1,
+    "name": "Ishaan Pandey"
+  },
+  {
+    "candidate_id": "CAND_0036676",
+    "score": 0.5558000206947327,
+    "title": "Analytics Engineer",
+    "yoe": 6.6,
+    "name": "Rohan Joshi"
+  },
+  {
+    "candidate_id": "CAND_0094025",
+    "score": 0.5551000237464905,
+    "title": "Data Scientist",
+    "yoe": 6.4,
+    "name": "Anil Bhatia"
+  },
+  {
+    "candidate_id": "CAND_0018701",
+    "score": 0.5548999905586243,
+    "title": "Junior ML Engineer",
+    "yoe": 6.0,
+    "name": "Advik Khanna"
+  },
+  {
+    "candidate_id": "CAND_0037160",
+    "score": 0.5548999905586243,
+    "title": "Data Scientist",
+    "yoe": 6.0,
+    "name": "Riya Chatterjee"
+  },
+  {
+    "candidate_id": "CAND_0044883",
+    "score": 0.5541999936103821,
+    "title": "AI Engineer",
+    "yoe": 6.3,
+    "name": "Rajesh Reddy"
+  },
+  {
+    "candidate_id": "CAND_0097991",
+    "score": 0.5540000200271606,
+    "title": "Software Engineer",
+    "yoe": 7.9,
+    "name": "Ishaan Khanna"
+  },
+  {
+    "candidate_id": "CAND_0049978",
+    "score": 0.5540000200271606,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.6,
+    "name": "Kabir Arora"
+  },
+  {
+    "candidate_id": "CAND_0082262",
+    "score": 0.5540000200271606,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.9,
+    "name": "Ved Dalal"
+  },
+  {
+    "candidate_id": "CAND_0002706",
+    "score": 0.5539000034332275,
+    "title": "Junior ML Engineer",
+    "yoe": 6.9,
+    "name": "Shaurya Dutta"
+  },
+  {
+    "candidate_id": "CAND_0026716",
+    "score": 0.5537999868392944,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.6,
+    "name": "Neha Shah"
+  },
+  {
+    "candidate_id": "CAND_0098454",
+    "score": 0.553600013256073,
+    "title": "AI Specialist",
+    "yoe": 6.6,
+    "name": "Jay Iyengar"
+  },
+  {
+    "candidate_id": "CAND_0017178",
+    "score": 0.553600013256073,
+    "title": "ML Engineer",
+    "yoe": 4.2,
+    "name": "Rahul Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0024620",
+    "score": 0.5526999831199646,
+    "title": "AI Engineer",
+    "yoe": 5.9,
+    "name": "Avni Rao"
+  },
+  {
+    "candidate_id": "CAND_0018013",
+    "score": 0.5523999929428101,
+    "title": "AI Specialist",
+    "yoe": 6.7,
+    "name": "Aadhya Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0043318",
+    "score": 0.5523999929428101,
+    "title": "Data Scientist",
+    "yoe": 6.2,
+    "name": "Om Saxena"
+  },
+  {
+    "candidate_id": "CAND_0077285",
+    "score": 0.5522000193595886,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 5.5,
+    "name": "Priya Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0089381",
+    "score": 0.5522000193595886,
+    "title": "Computer Vision Engineer",
+    "yoe": 6.0,
+    "name": "Zara Naidu"
+  },
+  {
+    "candidate_id": "CAND_0036863",
+    "score": 0.5521000027656555,
+    "title": "Senior Data Scientist",
+    "yoe": 4.3,
+    "name": "Vikram Bansal"
+  },
+  {
+    "candidate_id": "CAND_0077067",
+    "score": 0.5519000291824341,
+    "title": "AI Specialist",
+    "yoe": 5.4,
+    "name": "Vihaan Malhotra"
+  },
+  {
+    "candidate_id": "CAND_0073917",
+    "score": 0.5515000224113464,
+    "title": "Data Scientist",
+    "yoe": 5.8,
+    "name": "Aarav Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0035764",
+    "score": 0.5511999726295471,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.8,
+    "name": "Amit Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0072937",
+    "score": 0.5511000156402588,
+    "title": "Senior Software Engineer",
+    "yoe": 7.6,
+    "name": "Ayaan Vora"
+  },
+  {
+    "candidate_id": "CAND_0088354",
+    "score": 0.5511000156402588,
+    "title": "Junior ML Engineer",
+    "yoe": 6.5,
+    "name": "Rohan Mishra"
+  },
+  {
+    "candidate_id": "CAND_0094251",
+    "score": 0.5503000020980835,
+    "title": "Senior Software Engineer",
+    "yoe": 7.2,
+    "name": "Sunil Gupta"
+  },
+  {
+    "candidate_id": "CAND_0091845",
+    "score": 0.5501000285148621,
+    "title": "Data Analyst",
+    "yoe": 6.5,
+    "name": "Kabir Mehta"
+  },
+  {
+    "candidate_id": "CAND_0011162",
+    "score": 0.5496000051498413,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 5.8,
+    "name": "Nisha Sharma"
+  },
+  {
+    "candidate_id": "CAND_0038099",
+    "score": 0.5491999983787537,
+    "title": "Junior ML Engineer",
+    "yoe": 5.4,
+    "name": "Sneha Pandey"
+  },
+  {
+    "candidate_id": "CAND_0029135",
+    "score": 0.5490999817848206,
+    "title": "AI Specialist",
+    "yoe": 5.8,
+    "name": "Yash Bose"
+  },
+  {
+    "candidate_id": "CAND_0070202",
+    "score": 0.548799991607666,
+    "title": "Machine Learning Engineer",
+    "yoe": 5.1,
+    "name": "Ayaan Mishra"
+  },
+  {
+    "candidate_id": "CAND_0005632",
+    "score": 0.548799991607666,
+    "title": "Backend Engineer",
+    "yoe": 5.6,
+    "name": "Anil Chatterjee"
+  },
+  {
+    "candidate_id": "CAND_0005260",
+    "score": 0.5486999750137329,
+    "title": "Senior NLP Engineer",
+    "yoe": 5.2,
+    "name": "Mira Ghosh"
+  },
+  {
+    "candidate_id": "CAND_0070808",
+    "score": 0.5486999750137329,
+    "title": "Junior ML Engineer",
+    "yoe": 6.8,
+    "name": "Vihaan Shah"
+  },
+  {
+    "candidate_id": "CAND_0051003",
+    "score": 0.54830002784729,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 4.0,
+    "name": "Suresh Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0024501",
+    "score": 0.54830002784729,
+    "title": "Content Writer",
+    "yoe": 8.2,
+    "name": "Sai Chatterjee"
+  },
+  {
+    "candidate_id": "CAND_0084005",
+    "score": 0.5482000112533569,
+    "title": "Backend Engineer",
+    "yoe": 6.1,
+    "name": "Ananya Mehta"
+  },
+  {
+    "candidate_id": "CAND_0004131",
+    "score": 0.5476999878883362,
+    "title": "Junior ML Engineer",
+    "yoe": 6.8,
+    "name": "Vivaan Bose"
+  },
+  {
+    "candidate_id": "CAND_0033861",
+    "score": 0.5475999712944031,
+    "title": "Senior NLP Engineer",
+    "yoe": 8.0,
+    "name": "Kabir Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0039522",
+    "score": 0.5475000143051147,
+    "title": "Senior Data Engineer",
+    "yoe": 6.9,
+    "name": "Advaith Kumar"
+  },
+  {
+    "candidate_id": "CAND_0009516",
+    "score": 0.5471000075340271,
+    "title": "AI Specialist",
+    "yoe": 6.9,
+    "name": "Deepak Bansal"
+  },
+  {
+    "candidate_id": "CAND_0071981",
+    "score": 0.5467000007629395,
+    "title": "Data Engineer",
+    "yoe": 7.1,
+    "name": "Siya Malhotra"
+  },
+  {
+    "candidate_id": "CAND_0003917",
+    "score": 0.5465999841690063,
+    "title": "Senior Data Engineer",
+    "yoe": 7.3,
+    "name": "Tanya Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0029671",
+    "score": 0.546500027179718,
+    "title": "Data Scientist",
+    "yoe": 5.7,
+    "name": "Tanya Chatterjee"
+  },
+  {
+    "candidate_id": "CAND_0032955",
+    "score": 0.5464000105857849,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.2,
+    "name": "Rahul Kumar"
+  },
+  {
+    "candidate_id": "CAND_0015097",
+    "score": 0.5464000105857849,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.0,
+    "name": "Om Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0000165",
+    "score": 0.5464000105857849,
+    "title": "AI Specialist",
+    "yoe": 6.8,
+    "name": "Suresh Reddy"
+  },
+  {
+    "candidate_id": "CAND_0014715",
+    "score": 0.5462999939918518,
+    "title": "AI Specialist",
+    "yoe": 4.2,
+    "name": "Aanya Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0022463",
+    "score": 0.5450999736785889,
+    "title": "Junior ML Engineer",
+    "yoe": 6.5,
+    "name": "Kavya Arora"
+  },
+  {
+    "candidate_id": "CAND_0069476",
+    "score": 0.544700026512146,
+    "title": "Full Stack Developer",
+    "yoe": 6.9,
+    "name": "Sai Bhatia"
+  },
+  {
+    "candidate_id": "CAND_0093872",
+    "score": 0.5446000099182129,
+    "title": "DevOps Engineer",
+    "yoe": 7.7,
+    "name": "Pari Dalal"
+  },
+  {
+    "candidate_id": "CAND_0091745",
+    "score": 0.5444999933242798,
+    "title": "Junior ML Engineer",
+    "yoe": 5.9,
+    "name": "Karan Agarwal"
+  },
+  {
+    "candidate_id": "CAND_0014683",
+    "score": 0.5443000197410583,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.6,
+    "name": "Ritu Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0058575",
+    "score": 0.5440999865531921,
+    "title": "AI Engineer",
+    "yoe": 5.8,
+    "name": "Suresh Dutta"
+  },
+  {
+    "candidate_id": "CAND_0051486",
+    "score": 0.5440999865531921,
+    "title": "AI Specialist",
+    "yoe": 5.9,
+    "name": "Vivaan Mehta"
+  },
+  {
+    "candidate_id": "CAND_0065514",
+    "score": 0.5439000129699707,
+    "title": "ML Engineer",
+    "yoe": 6.6,
+    "name": "Krishna Chopra"
+  },
+  {
+    "candidate_id": "CAND_0020227",
+    "score": 0.5436000227928162,
+    "title": "Software Engineer",
+    "yoe": 5.8,
+    "name": "Vivaan Sen"
+  },
+  {
+    "candidate_id": "CAND_0037706",
+    "score": 0.5436000227928162,
+    "title": "Data Analyst",
+    "yoe": 6.1,
+    "name": "Ayaan Goyal"
+  },
+  {
+    "candidate_id": "CAND_0053934",
+    "score": 0.54339998960495,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.7,
+    "name": "Ananya Sethi"
+  },
+  {
+    "candidate_id": "CAND_0040178",
+    "score": 0.5430999994277954,
+    "title": "ML Engineer",
+    "yoe": 5.0,
+    "name": "Anika Bhatia"
+  },
+  {
+    "candidate_id": "CAND_0045994",
+    "score": 0.5429999828338623,
+    "title": "Backend Engineer",
+    "yoe": 5.7,
+    "name": "Arjun Dalal"
+  },
+  {
+    "candidate_id": "CAND_0024990",
+    "score": 0.5426999926567078,
+    "title": "Junior ML Engineer",
+    "yoe": 5.2,
+    "name": "Aarav Mehta"
+  },
+  {
+    "candidate_id": "CAND_0033842",
+    "score": 0.5422000288963318,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.8,
+    "name": "Neha Goyal"
+  },
+  {
+    "candidate_id": "CAND_0042029",
+    "score": 0.5421000123023987,
+    "title": "Senior Data Scientist",
+    "yoe": 6.5,
+    "name": "Dhruv Joshi"
+  },
+  {
+    "candidate_id": "CAND_0069773",
+    "score": 0.5418999791145325,
+    "title": "AI Research Engineer",
+    "yoe": 6.0,
+    "name": "Vihaan Singh"
+  },
+  {
+    "candidate_id": "CAND_0074486",
+    "score": 0.5414999723434448,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.5,
+    "name": "Dev Mehta"
+  },
+  {
+    "candidate_id": "CAND_0016678",
+    "score": 0.5412999987602234,
+    "title": "Junior ML Engineer",
+    "yoe": 6.8,
+    "name": "Suresh Joshi"
+  },
+  {
+    "candidate_id": "CAND_0081321",
+    "score": 0.541100025177002,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.3,
+    "name": "Avni Dalal"
+  },
+  {
+    "candidate_id": "CAND_0075849",
+    "score": 0.5408999919891357,
+    "title": "HR Manager",
+    "yoe": 9.2,
+    "name": "Pari Bansal"
+  },
+  {
+    "candidate_id": "CAND_0036437",
+    "score": 0.5408999919891357,
+    "title": "Search Engineer",
+    "yoe": 4.8,
+    "name": "Arjun Joshi"
+  },
+  {
+    "candidate_id": "CAND_0067717",
+    "score": 0.5407999753952026,
+    "title": "AI Specialist",
+    "yoe": 6.9,
+    "name": "Kavya Bose"
+  },
+  {
+    "candidate_id": "CAND_0032179",
+    "score": 0.5406000018119812,
+    "title": "Computer Vision Engineer",
+    "yoe": 6.4,
+    "name": "Om Hegde"
+  },
+  {
+    "candidate_id": "CAND_0065991",
+    "score": 0.5401999950408936,
+    "title": "Data Scientist",
+    "yoe": 5.4,
+    "name": "Karan Sethi"
+  },
+  {
+    "candidate_id": "CAND_0032089",
+    "score": 0.5401999950408936,
+    "title": "ML Engineer",
+    "yoe": 6.6,
+    "name": "Naina Khanna"
+  },
+  {
+    "candidate_id": "CAND_0033911",
+    "score": 0.5401999950408936,
+    "title": "Data Scientist",
+    "yoe": 6.9,
+    "name": "Kabir Mittal"
+  },
+  {
+    "candidate_id": "CAND_0091814",
+    "score": 0.5400000214576721,
+    "title": "Senior Data Engineer",
+    "yoe": 5.1,
+    "name": "Sneha Verma"
+  },
+  {
+    "candidate_id": "CAND_0083492",
+    "score": 0.539900004863739,
+    "title": "Data Engineer",
+    "yoe": 7.0,
+    "name": "Aarohi Krishnan"
+  },
+  {
+    "candidate_id": "CAND_0002037",
+    "score": 0.5397999882698059,
+    "title": "ML Engineer",
+    "yoe": 5.5,
+    "name": "Krishna Mittal"
+  },
+  {
+    "candidate_id": "CAND_0021973",
+    "score": 0.5396000146865845,
+    "title": "ML Engineer",
+    "yoe": 5.1,
+    "name": "Jay Shah"
+  },
+  {
+    "candidate_id": "CAND_0026160",
+    "score": 0.5394999980926514,
+    "title": "HR Manager",
+    "yoe": 10.8,
+    "name": "Anjali Agarwal"
+  },
+  {
+    "candidate_id": "CAND_0015578",
+    "score": 0.5394999980926514,
+    "title": "AI Engineer",
+    "yoe": 5.4,
+    "name": "Ved Singh"
+  },
+  {
+    "candidate_id": "CAND_0015786",
+    "score": 0.5393999814987183,
+    "title": "Analytics Engineer",
+    "yoe": 7.5,
+    "name": "Aadhya Singh"
+  },
+  {
+    "candidate_id": "CAND_0003756",
+    "score": 0.5390999913215637,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.5,
+    "name": "Tanya Reddy"
+  },
+  {
+    "candidate_id": "CAND_0044378",
+    "score": 0.5389000177383423,
+    "title": "Senior Data Engineer",
+    "yoe": 6.6,
+    "name": "Saanvi Bhatia"
+  },
+  {
+    "candidate_id": "CAND_0068351",
+    "score": 0.5388000011444092,
+    "title": "Lead AI Engineer",
+    "yoe": 6.4,
+    "name": "Aadhya Iyer"
+  },
+  {
+    "candidate_id": "CAND_0075439",
+    "score": 0.5386999845504761,
+    "title": "Machine Learning Engineer",
+    "yoe": 4.3,
+    "name": "Pooja Mehta"
+  },
+  {
+    "candidate_id": "CAND_0093141",
+    "score": 0.5386000275611877,
+    "title": "Data Analyst",
+    "yoe": 6.1,
+    "name": "Ela Reddy"
+  },
+  {
+    "candidate_id": "CAND_0010595",
+    "score": 0.5383999943733215,
+    "title": "Data Engineer",
+    "yoe": 5.2,
+    "name": "Riya Ghosh"
+  },
+  {
+    "candidate_id": "CAND_0028430",
+    "score": 0.5378999710083008,
+    "title": "Analytics Engineer",
+    "yoe": 8.0,
+    "name": "Divya Menon"
+  },
+  {
+    "candidate_id": "CAND_0032942",
+    "score": 0.5378999710083008,
+    "title": "Content Writer",
+    "yoe": 6.0,
+    "name": "Vivaan Menon"
+  },
+  {
+    "candidate_id": "CAND_0011140",
+    "score": 0.5378999710083008,
+    "title": "ML Engineer",
+    "yoe": 5.1,
+    "name": "Aisha Iyer"
+  },
+  {
+    "candidate_id": "CAND_0043957",
+    "score": 0.5378000140190125,
+    "title": "Data Analyst",
+    "yoe": 6.5,
+    "name": "Meera Pandey"
+  },
+  {
+    "candidate_id": "CAND_0004666",
+    "score": 0.5378000140190125,
+    "title": "Cloud Engineer",
+    "yoe": 6.3,
+    "name": "Anil Saxena"
+  },
+  {
+    "candidate_id": "CAND_0019288",
+    "score": 0.5376999974250793,
+    "title": "AI Research Engineer",
+    "yoe": 5.7,
+    "name": "Ved Dutta"
+  },
+  {
+    "candidate_id": "CAND_0047521",
+    "score": 0.5375999808311462,
+    "title": "Junior ML Engineer",
+    "yoe": 4.4,
+    "name": "Manish Mittal"
+  },
+  {
+    "candidate_id": "CAND_0017093",
+    "score": 0.5375000238418579,
+    "title": "ML Engineer",
+    "yoe": 5.9,
+    "name": "Vikram Desai"
+  },
+  {
+    "candidate_id": "CAND_0017648",
+    "score": 0.5372999906539917,
+    "title": "AI Specialist",
+    "yoe": 4.0,
+    "name": "Arnav Mishra"
+  },
+  {
+    "candidate_id": "CAND_0063195",
+    "score": 0.5372999906539917,
+    "title": "Software Engineer",
+    "yoe": 6.4,
+    "name": "Sai Reddy"
+  },
+  {
+    "candidate_id": "CAND_0099840",
+    "score": 0.5372999906539917,
+    "title": "Backend Engineer",
+    "yoe": 7.7,
+    "name": "Ved Shetty"
+  },
+  {
+    "candidate_id": "CAND_0016659",
+    "score": 0.5371000170707703,
+    "title": "ML Engineer",
+    "yoe": 4.4,
+    "name": "Priya Dalal"
+  },
+  {
+    "candidate_id": "CAND_0084451",
+    "score": 0.5371000170707703,
+    "title": "Senior Data Engineer",
+    "yoe": 5.0,
+    "name": "Divya Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0010353",
+    "score": 0.5371000170707703,
+    "title": "HR Manager",
+    "yoe": 4.3,
+    "name": "Arjun Bansal"
+  },
+  {
+    "candidate_id": "CAND_0003841",
+    "score": 0.536899983882904,
+    "title": "ML Engineer",
+    "yoe": 5.0,
+    "name": "Anjali Krishnan"
+  },
+  {
+    "candidate_id": "CAND_0078042",
+    "score": 0.536899983882904,
+    "title": "Applied ML Engineer",
+    "yoe": 4.7,
+    "name": "Neha Shah"
+  },
+  {
+    "candidate_id": "CAND_0030827",
+    "score": 0.5368000268936157,
+    "title": "Senior Data Scientist",
+    "yoe": 5.4,
+    "name": "Vivaan Kumar"
+  },
+  {
+    "candidate_id": "CAND_0051004",
+    "score": 0.5365999937057495,
+    "title": "Senior Data Scientist",
+    "yoe": 4.7,
+    "name": "Vivaan Arora"
+  },
+  {
+    "candidate_id": "CAND_0062561",
+    "score": 0.5364000201225281,
+    "title": "ML Engineer",
+    "yoe": 5.9,
+    "name": "Suresh Bose"
+  },
+  {
+    "candidate_id": "CAND_0035391",
+    "score": 0.536300003528595,
+    "title": "Data Engineer",
+    "yoe": 7.3,
+    "name": "Rohan Krishnan"
+  },
+  {
+    "candidate_id": "CAND_0011489",
+    "score": 0.536300003528595,
+    "title": "ML Engineer",
+    "yoe": 5.8,
+    "name": "Anil Dalal"
+  },
+  {
+    "candidate_id": "CAND_0067643",
+    "score": 0.536300003528595,
+    "title": "AI Research Engineer",
+    "yoe": 6.0,
+    "name": "Suresh Patel"
+  },
+  {
+    "candidate_id": "CAND_0002545",
+    "score": 0.5361999869346619,
+    "title": "Content Writer",
+    "yoe": 7.1,
+    "name": "Aarav Reddy"
+  },
+  {
+    "candidate_id": "CAND_0088049",
+    "score": 0.5361999869346619,
+    "title": "Junior ML Engineer",
+    "yoe": 5.9,
+    "name": "Aryan Hegde"
+  },
+  {
+    "candidate_id": "CAND_0066690",
+    "score": 0.5360000133514404,
+    "title": "ML Engineer",
+    "yoe": 4.8,
+    "name": "Advik Sen"
+  },
+  {
+    "candidate_id": "CAND_0049896",
+    "score": 0.5360000133514404,
+    "title": "Search Engineer",
+    "yoe": 7.3,
+    "name": "Neha Vora"
+  },
+  {
+    "candidate_id": "CAND_0051532",
+    "score": 0.5358999967575073,
+    "title": "Data Engineer",
+    "yoe": 7.0,
+    "name": "Aarohi Banerjee"
+  },
+  {
+    "candidate_id": "CAND_0001302",
+    "score": 0.5356000065803528,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.8,
+    "name": "Saanvi Bansal"
+  },
+  {
+    "candidate_id": "CAND_0026640",
+    "score": 0.5356000065803528,
+    "title": "Computer Vision Engineer",
+    "yoe": 6.1,
+    "name": "Advaith Sen"
+  },
+  {
+    "candidate_id": "CAND_0070449",
+    "score": 0.5353000164031982,
+    "title": "Senior Software Engineer",
+    "yoe": 5.5,
+    "name": "Dev Menon"
+  },
+  {
+    "candidate_id": "CAND_0020781",
+    "score": 0.5351999998092651,
+    "title": "HR Manager",
+    "yoe": 7.5,
+    "name": "Dhruv Iyer"
+  },
+  {
+    "candidate_id": "CAND_0066160",
+    "score": 0.535099983215332,
+    "title": "Full Stack Developer",
+    "yoe": 8.2,
+    "name": "Ira Saxena"
+  },
+  {
+    "candidate_id": "CAND_0015528",
+    "score": 0.534600019454956,
+    "title": "Applied ML Engineer",
+    "yoe": 7.4,
+    "name": "Aisha Reddy"
+  },
+  {
+    "candidate_id": "CAND_0029632",
+    "score": 0.534600019454956,
+    "title": "Content Writer",
+    "yoe": 8.3,
+    "name": "Pooja Singh"
+  },
+  {
+    "candidate_id": "CAND_0012805",
+    "score": 0.534600019454956,
+    "title": "Data Scientist",
+    "yoe": 4.9,
+    "name": "Nisha Iyer"
+  },
+  {
+    "candidate_id": "CAND_0015828",
+    "score": 0.534500002861023,
+    "title": "Senior Data Engineer",
+    "yoe": 7.4,
+    "name": "Ayaan Rao"
+  },
+  {
+    "candidate_id": "CAND_0087198",
+    "score": 0.534500002861023,
+    "title": "Sales Executive",
+    "yoe": 7.9,
+    "name": "Rohan Singh"
+  },
+  {
+    "candidate_id": "CAND_0099806",
+    "score": 0.5342000126838684,
+    "title": "AI Engineer",
+    "yoe": 4.6,
+    "name": "Pranav Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0094165",
+    "score": 0.5338000059127808,
+    "title": "AI Research Engineer",
+    "yoe": 5.8,
+    "name": "Siya Arora"
+  },
+  {
+    "candidate_id": "CAND_0095419",
+    "score": 0.5338000059127808,
+    "title": "Content Writer",
+    "yoe": 7.4,
+    "name": "Vikram Vora"
+  },
+  {
+    "candidate_id": "CAND_0062413",
+    "score": 0.5338000059127808,
+    "title": "AI Research Engineer",
+    "yoe": 6.6,
+    "name": "Pari Joshi"
+  },
+  {
+    "candidate_id": "CAND_0026532",
+    "score": 0.5336999893188477,
+    "title": "Recommendation Systems Engineer",
+    "yoe": 4.8,
+    "name": "Aarav Sethi"
+  },
+  {
+    "candidate_id": "CAND_0078154",
+    "score": 0.5335999727249146,
+    "title": "HR Manager",
+    "yoe": 8.7,
+    "name": "Atharv Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0001151",
+    "score": 0.5335999727249146,
+    "title": "Junior ML Engineer",
+    "yoe": 5.0,
+    "name": "Saanvi Rao"
+  },
+  {
+    "candidate_id": "CAND_0022870",
+    "score": 0.5333999991416931,
+    "title": "AI Specialist",
+    "yoe": 6.7,
+    "name": "Krishna Menon"
+  },
+  {
+    "candidate_id": "CAND_0082026",
+    "score": 0.5333999991416931,
+    "title": "Data Analyst",
+    "yoe": 6.0,
+    "name": "Neha Sharma"
+  },
+  {
+    "candidate_id": "CAND_0033649",
+    "score": 0.5332000255584717,
+    "title": "Data Scientist",
+    "yoe": 5.3,
+    "name": "Aarohi Iyer"
+  },
+  {
+    "candidate_id": "CAND_0045962",
+    "score": 0.5328999757766724,
+    "title": "Data Engineer",
+    "yoe": 7.5,
+    "name": "Dhruv Bhatia"
+  },
+  {
+    "candidate_id": "CAND_0035879",
+    "score": 0.5328999757766724,
+    "title": "AI Research Engineer",
+    "yoe": 4.5,
+    "name": "Pari Patel"
+  },
+  {
+    "candidate_id": "CAND_0035653",
+    "score": 0.5328999757766724,
+    "title": "Data Scientist",
+    "yoe": 5.6,
+    "name": "Aditya Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0033350",
+    "score": 0.5327000021934509,
+    "title": "Data Scientist",
+    "yoe": 6.2,
+    "name": "Karan Sen"
+  },
+  {
+    "candidate_id": "CAND_0021030",
+    "score": 0.5325999855995178,
+    "title": "Sales Executive",
+    "yoe": 8.1,
+    "name": "Ananya Sethi"
+  },
+  {
+    "candidate_id": "CAND_0048166",
+    "score": 0.5325000286102295,
+    "title": "ML Engineer",
+    "yoe": 5.2,
+    "name": "Rajesh Bansal"
+  },
+  {
+    "candidate_id": "CAND_0039777",
+    "score": 0.5325000286102295,
+    "title": "Analytics Engineer",
+    "yoe": 6.9,
+    "name": "Naina Nair"
+  },
+  {
+    "candidate_id": "CAND_0065025",
+    "score": 0.5321999788284302,
+    "title": "Content Writer",
+    "yoe": 6.7,
+    "name": "Anjali Trivedi"
+  },
+  {
+    "candidate_id": "CAND_0003506",
+    "score": 0.5320000052452087,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.9,
+    "name": "Dev Khanna"
+  },
+  {
+    "candidate_id": "CAND_0012888",
+    "score": 0.5318999886512756,
+    "title": "Junior ML Engineer",
+    "yoe": 6.4,
+    "name": "Ananya Menon"
+  },
+  {
+    "candidate_id": "CAND_0001729",
+    "score": 0.5317000150680542,
+    "title": "Backend Engineer",
+    "yoe": 5.5,
+    "name": "Ishaan Naidu"
+  },
+  {
+    "candidate_id": "CAND_0031026",
+    "score": 0.5315999984741211,
+    "title": "Analytics Engineer",
+    "yoe": 8.0,
+    "name": "Meera Mittal"
+  },
+  {
+    "candidate_id": "CAND_0077498",
+    "score": 0.531499981880188,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.4,
+    "name": "Aarav Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0079559",
+    "score": 0.5314000248908997,
+    "title": "Sales Executive",
+    "yoe": 7.4,
+    "name": "Anika Gupta"
+  },
+  {
+    "candidate_id": "CAND_0094482",
+    "score": 0.5314000248908997,
+    "title": "Junior ML Engineer",
+    "yoe": 6.4,
+    "name": "Avni Mittal"
+  },
+  {
+    "candidate_id": "CAND_0077595",
+    "score": 0.5313000082969666,
+    "title": "Backend Engineer",
+    "yoe": 5.3,
+    "name": "Riya Singh"
+  },
+  {
+    "candidate_id": "CAND_0020845",
+    "score": 0.5313000082969666,
+    "title": "AI Research Engineer",
+    "yoe": 7.0,
+    "name": "Myra Malhotra"
+  },
+  {
+    "candidate_id": "CAND_0029768",
+    "score": 0.5311999917030334,
+    "title": "Software Engineer",
+    "yoe": 5.7,
+    "name": "Vikram Mehta"
+  },
+  {
+    "candidate_id": "CAND_0030348",
+    "score": 0.5311999917030334,
+    "title": "Machine Learning Engineer",
+    "yoe": 4.5,
+    "name": "Om Mishra"
+  },
+  {
+    "candidate_id": "CAND_0011582",
+    "score": 0.5311999917030334,
+    "title": "HR Manager",
+    "yoe": 8.5,
+    "name": "Zara Kumar"
+  },
+  {
+    "candidate_id": "CAND_0058287",
+    "score": 0.5310999751091003,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.5,
+    "name": "Ritu Iyengar"
+  },
+  {
+    "candidate_id": "CAND_0063097",
+    "score": 0.5310999751091003,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.5,
+    "name": "Neha Arora"
+  },
+  {
+    "candidate_id": "CAND_0054859",
+    "score": 0.5310999751091003,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.9,
+    "name": "Aryan Singh"
+  },
+  {
+    "candidate_id": "CAND_0038085",
+    "score": 0.5309000015258789,
+    "title": "Sales Executive",
+    "yoe": 8.6,
+    "name": "Aanya Desai"
+  },
+  {
+    "candidate_id": "CAND_0022573",
+    "score": 0.5307000279426575,
+    "title": "Sales Executive",
+    "yoe": 9.7,
+    "name": "Aryan Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0077908",
+    "score": 0.5306000113487244,
+    "title": "Data Engineer",
+    "yoe": 7.8,
+    "name": "Ishaan Sethi"
+  },
+  {
+    "candidate_id": "CAND_0022852",
+    "score": 0.5306000113487244,
+    "title": "AI Research Engineer",
+    "yoe": 5.4,
+    "name": "Aryan Dalal"
+  },
+  {
+    "candidate_id": "CAND_0095455",
+    "score": 0.5303999781608582,
+    "title": "Software Engineer",
+    "yoe": 7.4,
+    "name": "Pranav Saxena"
+  },
+  {
+    "candidate_id": "CAND_0036121",
+    "score": 0.5303000211715698,
+    "title": "ML Engineer",
+    "yoe": 5.2,
+    "name": "Atharv Bansal"
+  },
+  {
+    "candidate_id": "CAND_0060835",
+    "score": 0.5303000211715698,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.6,
+    "name": "Siya Agarwal"
+  },
+  {
+    "candidate_id": "CAND_0099581",
+    "score": 0.5303000211715698,
+    "title": "AI Specialist",
+    "yoe": 6.4,
+    "name": "Anika Patel"
+  },
+  {
+    "candidate_id": "CAND_0073740",
+    "score": 0.5302000045776367,
+    "title": "Software Engineer",
+    "yoe": 8.7,
+    "name": "Ananya Bose"
+  },
+  {
+    "candidate_id": "CAND_0097037",
+    "score": 0.5300999879837036,
+    "title": "AI Research Engineer",
+    "yoe": 6.1,
+    "name": "Anil Banerjee"
+  },
+  {
+    "candidate_id": "CAND_0019143",
+    "score": 0.5299999713897705,
+    "title": "Senior Software Engineer",
+    "yoe": 4.7,
+    "name": "Advik Chatterjee"
+  },
+  {
+    "candidate_id": "CAND_0081852",
+    "score": 0.5297999978065491,
+    "title": "Senior Data Scientist",
+    "yoe": 5.9,
+    "name": "Krishna Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0087766",
+    "score": 0.5296000242233276,
+    "title": "Computer Vision Engineer",
+    "yoe": 5.1,
+    "name": "Aisha Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0061936",
+    "score": 0.5295000076293945,
+    "title": "HR Manager",
+    "yoe": 7.6,
+    "name": "Aisha Verma"
+  },
+  {
+    "candidate_id": "CAND_0032887",
+    "score": 0.5292999744415283,
+    "title": "ML Engineer",
+    "yoe": 6.1,
+    "name": "Ved Bose"
+  },
+  {
+    "candidate_id": "CAND_0081146",
+    "score": 0.52920001745224,
+    "title": "HR Manager",
+    "yoe": 8.4,
+    "name": "Vivaan Verma"
+  },
+  {
+    "candidate_id": "CAND_0077221",
+    "score": 0.52920001745224,
+    "title": "Data Analyst",
+    "yoe": 5.9,
+    "name": "Suresh Iyer"
+  },
+  {
+    "candidate_id": "CAND_0023458",
+    "score": 0.52920001745224,
+    "title": "AI Research Engineer",
+    "yoe": 5.0,
+    "name": "Ira Kumar"
+  },
+  {
+    "candidate_id": "CAND_0016095",
+    "score": 0.5291000008583069,
+    "title": "HR Manager",
+    "yoe": 9.2,
+    "name": "Vihaan Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0005460",
+    "score": 0.5289999842643738,
+    "title": "Backend Engineer",
+    "yoe": 7.0,
+    "name": "Riya Ghosh"
+  },
+  {
+    "candidate_id": "CAND_0007631",
+    "score": 0.5288000106811523,
+    "title": "AI Specialist",
+    "yoe": 5.2,
+    "name": "Ishaan Mittal"
+  },
+  {
+    "candidate_id": "CAND_0002914",
+    "score": 0.5288000106811523,
+    "title": "HR Manager",
+    "yoe": 6.4,
+    "name": "Shaurya Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0088240",
+    "score": 0.5286999940872192,
+    "title": "Content Writer",
+    "yoe": 7.7,
+    "name": "Om Shah"
+  },
+  {
+    "candidate_id": "CAND_0074524",
+    "score": 0.5285000205039978,
+    "title": "Analytics Engineer",
+    "yoe": 6.6,
+    "name": "Jay Sen"
+  },
+  {
+    "candidate_id": "CAND_0028884",
+    "score": 0.5281999707221985,
+    "title": "HR Manager",
+    "yoe": 5.2,
+    "name": "Ritu Bose"
+  },
+  {
+    "candidate_id": "CAND_0076716",
+    "score": 0.5281999707221985,
+    "title": "HR Manager",
+    "yoe": 8.0,
+    "name": "Arnav Banerjee"
+  },
+  {
+    "candidate_id": "CAND_0086786",
+    "score": 0.5281000137329102,
+    "title": "Software Engineer",
+    "yoe": 7.7,
+    "name": "Suresh Iyer"
+  },
+  {
+    "candidate_id": "CAND_0001036",
+    "score": 0.5281000137329102,
+    "title": "Backend Engineer",
+    "yoe": 7.7,
+    "name": "Ayaan Kumar"
+  },
+  {
+    "candidate_id": "CAND_0017590",
+    "score": 0.5281000137329102,
+    "title": "AI Research Engineer",
+    "yoe": 5.1,
+    "name": "Sunil Agarwal"
+  },
+  {
+    "candidate_id": "CAND_0054144",
+    "score": 0.527899980545044,
+    "title": "Software Engineer",
+    "yoe": 8.0,
+    "name": "Myra Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0052706",
+    "score": 0.5277000069618225,
+    "title": "AI Research Engineer",
+    "yoe": 5.1,
+    "name": "Ira Krishnan"
+  },
+  {
+    "candidate_id": "CAND_0010062",
+    "score": 0.5275999903678894,
+    "title": "Full Stack Developer",
+    "yoe": 5.4,
+    "name": "Krishna Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0040231",
+    "score": 0.527400016784668,
+    "title": "Senior Software Engineer",
+    "yoe": 7.1,
+    "name": "Yash Shah"
+  },
+  {
+    "candidate_id": "CAND_0061655",
+    "score": 0.5271999835968018,
+    "title": "Machine Learning Engineer",
+    "yoe": 4.6,
+    "name": "Mira Banerjee"
+  },
+  {
+    "candidate_id": "CAND_0020350",
+    "score": 0.5271000266075134,
+    "title": "AI Engineer",
+    "yoe": 5.8,
+    "name": "Tanya Reddy"
+  },
+  {
+    "candidate_id": "CAND_0076959",
+    "score": 0.5271000266075134,
+    "title": "Software Engineer",
+    "yoe": 7.6,
+    "name": "Manish Bhatia"
+  },
+  {
+    "candidate_id": "CAND_0079610",
+    "score": 0.5267999768257141,
+    "title": "Data Analyst",
+    "yoe": 6.8,
+    "name": "Dev Sethi"
+  },
+  {
+    "candidate_id": "CAND_0088817",
+    "score": 0.5266000032424927,
+    "title": "Software Engineer",
+    "yoe": 7.6,
+    "name": "Arjun Banerjee"
+  },
+  {
+    "candidate_id": "CAND_0062981",
+    "score": 0.5266000032424927,
+    "title": "DevOps Engineer",
+    "yoe": 8.3,
+    "name": "Atharv Iyengar"
+  },
+  {
+    "candidate_id": "CAND_0030049",
+    "score": 0.5263000130653381,
+    "title": "Data Analyst",
+    "yoe": 7.0,
+    "name": "Priya Pillai"
+  },
+  {
+    "candidate_id": "CAND_0001600",
+    "score": 0.526199996471405,
+    "title": "AI Specialist",
+    "yoe": 6.2,
+    "name": "Mira Ghosh"
+  },
+  {
+    "candidate_id": "CAND_0013545",
+    "score": 0.5260999798774719,
+    "title": "Software Engineer",
+    "yoe": 7.4,
+    "name": "Rohan Pillai"
+  },
+  {
+    "candidate_id": "CAND_0058412",
+    "score": 0.5260000228881836,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 6.6,
+    "name": "Aadhya Shetty"
+  },
+  {
+    "candidate_id": "CAND_0061479",
+    "score": 0.5260000228881836,
+    "title": "ML Engineer",
+    "yoe": 5.0,
+    "name": "Tanvi Iyengar"
+  },
+  {
+    "candidate_id": "CAND_0017407",
+    "score": 0.5259000062942505,
+    "title": "HR Manager",
+    "yoe": 8.8,
+    "name": "Ritu Menon"
+  },
+  {
+    "candidate_id": "CAND_0068195",
+    "score": 0.5259000062942505,
+    "title": "Backend Engineer",
+    "yoe": 6.9,
+    "name": "Ira Rao"
+  },
+  {
+    "candidate_id": "CAND_0077261",
+    "score": 0.5257999897003174,
+    "title": "AI Specialist",
+    "yoe": 5.7,
+    "name": "Shaurya Krishnan"
+  },
+  {
+    "candidate_id": "CAND_0057696",
+    "score": 0.5256999731063843,
+    "title": "Senior Software Engineer",
+    "yoe": 7.6,
+    "name": "Saanvi Chatterjee"
+  },
+  {
+    "candidate_id": "CAND_0067183",
+    "score": 0.5256999731063843,
+    "title": "ML Engineer",
+    "yoe": 6.1,
+    "name": "Riya Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0085372",
+    "score": 0.5254999995231628,
+    "title": "Data Analyst",
+    "yoe": 7.4,
+    "name": "Anil Khanna"
+  },
+  {
+    "candidate_id": "CAND_0070450",
+    "score": 0.5253999829292297,
+    "title": "Full Stack Developer",
+    "yoe": 9.0,
+    "name": "Diya Bansal"
+  },
+  {
+    "candidate_id": "CAND_0068410",
+    "score": 0.5253999829292297,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.8,
+    "name": "Vivaan Subramanian"
+  },
+  {
+    "candidate_id": "CAND_0092839",
+    "score": 0.5253999829292297,
+    "title": "Analytics Engineer",
+    "yoe": 7.5,
+    "name": "Yash Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0091728",
+    "score": 0.5249999761581421,
+    "title": "Sales Executive",
+    "yoe": 7.7,
+    "name": "Myra Tiwari"
+  },
+  {
+    "candidate_id": "CAND_0037584",
+    "score": 0.5245000123977661,
+    "title": "Content Writer",
+    "yoe": 5.8,
+    "name": "Sneha Sen"
+  },
+  {
+    "candidate_id": "CAND_0013122",
+    "score": 0.5245000123977661,
+    "title": "AI Specialist",
+    "yoe": 4.3,
+    "name": "Amit Bose"
+  },
+  {
+    "candidate_id": "CAND_0017516",
+    "score": 0.524399995803833,
+    "title": "Senior Data Engineer",
+    "yoe": 6.6,
+    "name": "Saanvi Verma"
+  },
+  {
+    "candidate_id": "CAND_0062009",
+    "score": 0.524399995803833,
+    "title": "Junior ML Engineer",
+    "yoe": 5.9,
+    "name": "Om Bansal"
+  },
+  {
+    "candidate_id": "CAND_0061176",
+    "score": 0.524399995803833,
+    "title": "Content Writer",
+    "yoe": 6.9,
+    "name": "Pranav Verma"
+  },
+  {
+    "candidate_id": "CAND_0001086",
+    "score": 0.5241000056266785,
+    "title": "Senior Software Engineer",
+    "yoe": 8.0,
+    "name": "Kabir Shetty"
+  },
+  {
+    "candidate_id": "CAND_0054271",
+    "score": 0.5241000056266785,
+    "title": "Senior Software Engineer (ML)",
+    "yoe": 5.8,
+    "name": "Ved Dutta"
+  },
+  {
+    "candidate_id": "CAND_0050549",
+    "score": 0.5239999890327454,
+    "title": "Senior Data Engineer",
+    "yoe": 5.1,
+    "name": "Aryan Khanna"
+  },
+  {
+    "candidate_id": "CAND_0021706",
+    "score": 0.5238000154495239,
+    "title": "AI Specialist",
+    "yoe": 6.2,
+    "name": "Avni Kumar"
+  },
+  {
+    "candidate_id": "CAND_0058628",
+    "score": 0.5238000154495239,
+    "title": "Data Analyst",
+    "yoe": 7.1,
+    "name": "Advaith Shah"
+  },
+  {
+    "candidate_id": "CAND_0011925",
+    "score": 0.5235999822616577,
+    "title": "Senior Software Engineer",
+    "yoe": 5.0,
+    "name": "Suresh Hegde"
+  },
+  {
+    "candidate_id": "CAND_0029751",
+    "score": 0.5235999822616577,
+    "title": "HR Manager",
+    "yoe": 7.0,
+    "name": "Sunil Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0064020",
+    "score": 0.5235999822616577,
+    "title": "Senior Software Engineer",
+    "yoe": 5.9,
+    "name": "Ela Chowdary"
+  },
+  {
+    "candidate_id": "CAND_0008978",
+    "score": 0.5235000252723694,
+    "title": "Junior ML Engineer",
+    "yoe": 6.7,
+    "name": "Dev Pandey"
+  },
+  {
+    "candidate_id": "CAND_0067820",
+    "score": 0.5235000252723694,
+    "title": "Senior Software Engineer",
+    "yoe": 7.9,
+    "name": "Reyansh Mukherjee"
+  },
+  {
+    "candidate_id": "CAND_0005191",
+    "score": 0.5235000252723694,
+    "title": "AI Specialist",
+    "yoe": 6.2,
+    "name": "Aarohi Shetty"
+  },
+  {
+    "candidate_id": "CAND_0021163",
+    "score": 0.5235000252723694,
+    "title": "Senior Software Engineer",
+    "yoe": 7.1,
+    "name": "Kavya Menon"
+  },
+  {
+    "candidate_id": "CAND_0040407",
+    "score": 0.5234000086784363,
+    "title": "Backend Engineer",
+    "yoe": 5.5,
+    "name": "Arjun Sen"
+  },
+  {
+    "candidate_id": "CAND_0041918",
+    "score": 0.5232999920845032,
+    "title": "AI Specialist",
+    "yoe": 5.7,
+    "name": "Sanjay Hegde"
+  },
+  {
+    "candidate_id": "CAND_0018925",
+    "score": 0.5232999920845032,
+    "title": "AI Research Engineer",
+    "yoe": 5.8,
+    "name": "Sneha Rao"
+  },
+  {
+    "candidate_id": "CAND_0028287",
+    "score": 0.5232999920845032,
+    "title": "Data Scientist",
+    "yoe": 5.7,
+    "name": "Myra Iyengar"
+  },
+  {
+    "candidate_id": "CAND_0063862",
+    "score": 0.5232999920845032,
+    "title": "ML Engineer",
+    "yoe": 5.3,
+    "name": "Kavya Kapoor"
+  },
+  {
+    "candidate_id": "CAND_0070225",
+    "score": 0.5232999920845032,
+    "title": "ML Engineer",
+    "yoe": 6.0,
+    "name": "Aisha Reddy"
+  },
+  {
+    "candidate_id": "CAND_0083629",
+    "score": 0.5232999920845032,
+    "title": "HR Manager",
+    "yoe": 8.0,
+    "name": "Nikhil Joshi"
+  },
+  {
+    "candidate_id": "CAND_0088393",
+    "score": 0.5231999754905701,
+    "title": "Full Stack Developer",
+    "yoe": 7.7,
+    "name": "Sneha Joshi"
+  },
+  {
+    "candidate_id": "CAND_0035779",
+    "score": 0.5231000185012817,
+    "title": "ML Engineer",
+    "yoe": 5.5,
+    "name": "Sneha Desai"
+  },
+  {
+    "candidate_id": "CAND_0007596",
+    "score": 0.5230000019073486,
+    "title": "Junior ML Engineer",
+    "yoe": 4.4,
+    "name": "Shaurya Gupta"
+  },
+  {
+    "candidate_id": "CAND_0016170",
+    "score": 0.5230000019073486,
+    "title": "AI Research Engineer",
+    "yoe": 6.8,
+    "name": "Aditya Reddy"
+  },
+  {
+    "candidate_id": "CAND_0076482",
+    "score": 0.5228999853134155,
+    "title": "ML Engineer",
+    "yoe": 6.6,
+    "name": "Tanvi Chatterjee"
+  }
+]

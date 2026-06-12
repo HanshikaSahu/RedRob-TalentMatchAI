@@ -1,0 +1,56 @@
+team_name: "Edward"
+
+primary_contact:
+  name: "Hanshika Sahu"
+  email: "hanshikasahu03@gmail.com"
+  phone: "+91-7903338565"
+
+team_members:
+  - name: "Hanshika Sahu"
+    email: "hanshikasahu03@gmail.com"
+    role: "Full Stack Development + ML Engineer"
+
+github_repo: "https://github.com/HanshikaSahu/RedRob-TalentMatchAI.git"
+
+sandbox_link: "TBD"  # fill after Day 9
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl.gz --out ./submission.csv"
+
+compute:
+  platform: "Windows 11 Laptop"
+  cpu_cores: 4
+  ram_gb: 16
+  python_version: "3.13.5"
+  os: "Windows 11"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  pre_computation_time_minutes: 0
+
+ai_tools_used:
+  - "Claude"
+
+ai_usage_summary: |
+  Used Claude for architectural guidance, debugging, and code review throughout
+  development. All engineering decisions, testing, iteration, and scoring logic
+  were implemented and validated by the developer. No candidate data was fed
+  to any external LLM during ranking.
+
+methodology_summary: |
+  Multi-signal candidate ranking system using sentence-transformers for semantic
+  matching between the job description and candidate career histories. Applied
+  hard disqualification filters (inactive 6+ months, pure consulting background)
+  before scoring, removing ~30% of candidates upfront. Final score combines
+  semantic similarity (35%), experience quality at product companies (25%),
+  behavioral availability signals (20%), verified platform signals like
+  assessment scores and GitHub activity (12%), and nice-to-have skills (8%).
+  Title relevance penalty (0.25x) and job hopper penalty (0.5-0.7x) applied
+  as multipliers. Memory-efficient streaming pipeline processes 100k candidates
+  without loading full dataset into RAM, completing within compute constraints.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true
