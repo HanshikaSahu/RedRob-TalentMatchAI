@@ -11,6 +11,10 @@ __pycache__/
 # Large datasets
 candidates.jsonl
 
+# Large generated artifacts - regenerate via precompute.py
+embeddings.npy
+survivor_profiles.json
+
 # Generated folders
 notebooks/progress/
 notebooks/embeddings/
