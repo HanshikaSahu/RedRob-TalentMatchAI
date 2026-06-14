@@ -1,4 +1,4 @@
-# TalentMatchAI — Intelligent Candidate Ranking System
+# TalentMatchAI — Intelligent Candidate Discovery & Ranking System
 
 ## Overview
 TalentMatchAI is an intelligent candidate discovery and ranking system developed for the India.Runs Data & AI Challenge by Redrob AI. The system evaluates and ranks 100,000 candidate profiles against a Senior AI Engineer role by combining semantic understanding of career histories with behavioral, experience, and verification signals.
