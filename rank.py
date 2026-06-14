@@ -1,3 +1,7 @@
+import os
+os.environ["HF_HUB_OFFLINE"] = "1"
+os.environ["TRANSFORMERS_OFFLINE"] = "1"
+
 import argparse, json, numpy as np, csv
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
