@@ -103,3 +103,7 @@ Step 3 — Validate:
 ```
 python validate_submission.py submission.csv
 ```
+
+## Author
+
+Hanshika Sahu
