@@ -10,11 +10,13 @@ team_members:
     email: "hanshikasahu03@gmail.com"
     role: "Full Stack Development + ML Engineer"
 
-github_repo: "https://github.com/HanshikaSahu/RedRob-TalentMatchAI.git"
+github_repo: "https://github.com/HanshikaSahu/RedRob-TalentMatchAI"
 
-sandbox_link: "TBD"  # fill after Day 9
+sandbox_link: "https://colab.research.google.com/drive/1diuDRF5z3nC69le4bzdReFwZNuf1A-Tg?usp=sharing"
 
-reproduce_command: "python rank.py --candidates ./candidates.jsonl.gz --out ./submission.csv"
+reproduce_command: |
+  python precompute.py
+  python rank.py --candidates ./candidates.jsonl --out ./submission.csv
 
 compute:
   platform: "Windows 11 Laptop"
@@ -24,17 +26,19 @@ compute:
   os: "Windows 11"
   uses_gpu_for_inference: false
   has_network_during_ranking: false
-  pre_computation_required: false
-  pre_computation_time_minutes: 0
+  pre_computation_required: true
+  pre_computation_time_minutes: 120
 
 ai_tools_used:
   - "Claude"
+  - "ChatGPT"
 
 ai_usage_summary: |
-  Used Claude for architectural guidance, debugging, and code review throughout
-  development. All engineering decisions, testing, iteration, and scoring logic
-  were implemented and validated by the developer. No candidate data was fed
-  to any external LLM during ranking.
+  Claude and ChatGPT were used for architectural discussion, debugging support,
+  and code review during development. All design decisions, implementation,
+  testing, and iterative tuning of the scoring weights and filters were carried
+  out by the developer. No candidate data was sent to any external LLM service
+  during ranking.
 
 methodology_summary: |
   Multi-signal candidate ranking system using sentence-transformers for semantic
@@ -45,8 +49,10 @@ methodology_summary: |
   behavioral availability signals (20%), verified platform signals like
   assessment scores and GitHub activity (12%), and nice-to-have skills (8%).
   Title relevance penalty (0.25x) and job hopper penalty (0.5-0.7x) applied
-  as multipliers. Memory-efficient streaming pipeline processes 100k candidates
-  without loading full dataset into RAM, completing within compute constraints.
+  as multipliers. A one-time precompute step generates embeddings for ~70,000
+  surviving candidates (~2 hours, offline); the ranking step loads these
+  precomputed embeddings and produces the final ranked CSV in under a minute,
+  well within the 5-minute / 16GB / CPU-only constraint.
 
 declarations:
   read_submission_spec: true
